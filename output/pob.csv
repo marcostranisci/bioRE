@@ -1,0 +1,525 @@
+person,wd_id,P17,CountryIsoCode,WikidataLabel,hdi,FormerColony,Continent
+Q6827914,Q661405,Q754,TTO,Trinidad and Tobago,0.796,1,LatinAmericaAndCaribbean
+Q3520174,Q1352,Q668,IND,India,0.645,1,Asia
+Q6836032,Q1007088,Q145,GBR,United Kingdom,0.932,0,Europe
+Q6766945,Q2213391,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3537597,Q5112,Q408,AUS,Australia,0.944,0,Oceania
+Q5605307,Q5112,Q408,AUS,Australia,0.944,0,Oceania
+Q6584108,Q935686,Q145,GBR,United Kingdom,0.932,0,Europe
+Q483583,Q1425428,Q145,GBR,United Kingdom,0.932,0,Europe
+Q299391,Q1339305,Q145,GBR,United Kingdom,0.932,0,Europe
+Q234576,Q4576305,Q145,GBR,United Kingdom,0.932,0,Europe
+Q311709,Q83609,Q145,GBR,United Kingdom,0.932,0,Europe
+Q174595,Q1113311,Q843,PAK,Pakistan,0.557,1,Asia
+Q3610466,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q336331,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q942937,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q3013095,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q3014401,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q3017962,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q349135,Q34932,Q408,AUS,Australia,0.944,0,Oceania
+Q719333,Q1017537,Q145,GBR,United Kingdom,0.932,0,Europe
+Q259026,Q456,Q142,FRA,France,0.901,0,Europe
+Q221737,Q34217,Q145,GBR,United Kingdom,0.932,0,Europe
+Q463811,Q38022,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q83859,Q38022,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2625337,Q38022,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2517245,Q38022,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q310949,Q3141,Q408,AUS,Australia,0.944,0,Oceania
+Q559917,Q898468,Q213,CZE,Czech Republic,0.9,0,Europe
+Q560175,Q7903,Q1028,MAR,Morocco,0.686,1,Africa
+Q11677,Q375070,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q233339,Q1993670,Q258,ZAF,South Africa,0.709,1,Africa
+Q1640440,Q2807,Q29,ESP,Spain,0.904,0,Europe
+Q2885212,Q2807,Q29,ESP,Spain,0.904,0,Europe
+Q255657,Q2807,Q29,ESP,Spain,0.904,0,Europe
+Q3241386,Q997132,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q62208,Q2805,Q183,DEU,Germany,0.947,0,Europe
+Q105868,Q1486,Q414,ARG,Argentina,0.845,1,LatinAmericaAndCaribbean
+Q1146217,Q1486,Q414,ARG,Argentina,0.845,1,LatinAmericaAndCaribbean
+Q9446,Q61,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1972672,Q61,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q189554,Q61,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q552674,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q308459,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q229225,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q275502,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q3358996,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q3528646,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q3368542,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q636885,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q2846568,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q3107260,Q3130,Q408,AUS,Australia,0.944,0,Oceania
+Q10129,Q1010236,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q297948,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q313705,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1677212,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1383657,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q133631,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q102642,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q370417,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q42930,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q229394,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1277018,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q34460,Q65,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q277802,Q25413,Q34,SWE,Sweden,0.945,0,Europe
+Q312717,Q1085,Q213,CZE,Czech Republic,0.9,0,Europe
+Q718178,Q470369,Q213,CZE,Czech Republic,0.9,0,Europe
+Q173633,Q55630,Q403,SRB,Serbia,0.806,0,Europe
+Q264088,Q3915,Q1019,MDG,Madagascar,0.528,1,Africa
+Q54536,Q939529,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q201593,Q52981,Q38,ITA,Italy,0.892,0,Europe
+Q189542,Q54764,Q34,SWE,Sweden,0.945,0,Europe
+Q73280,Q1726,Q183,DEU,Germany,0.947,0,Europe
+Q7407,Q23768,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q54691,Q1006668,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q957450,Q568610,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q296282,Q1348,Q668,IND,India,0.645,1,Asia
+Q142656,Q159288,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1688112,Q10433723,Q34,SWE,Sweden,0.945,0,Europe
+Q10993,Q685224,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q7048193,Q810998,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q82925,Q4455727,Q212,UKR,Ukraine,0.779,0,Europe
+Q211731,Q49158,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q392,Q485708,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q28028,Q1489,Q96,MEX,Mexico,0.779,1,LatinAmericaAndCaribbean
+Q171091,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q212879,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q347481,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q299225,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1990672,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q230465,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q83338,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q8704,Q1297,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q6197,Q52691,Q38,ITA,Italy,0.892,0,Europe
+Q822610,Q19186,Q145,GBR,United Kingdom,0.932,0,Europe
+Q937,Q3012,Q183,DEU,Germany,0.947,0,Europe
+Q882,Q1231883,Q145,GBR,United Kingdom,0.932,0,Europe
+Q313216,Q1218,Q801,ISR,Israel,0.919,1,Asia
+Q701793,Q1218,Q801,ISR,Israel,0.919,1,Asia
+Q43247,Q10519255,Q34,SWE,Sweden,0.945,0,Europe
+Q232937,Q272347,Q142,FRA,France,0.901,0,Europe
+Q123206,Q72,Q39,CHE,Switzerland,0.955,0,Europe
+Q182870,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q160528,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q80596,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q44200,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q999332,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q4409586,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q297618,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q7407730,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q934087,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q946859,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q941961,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q56014,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q193635,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q288359,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q188137,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q293323,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q5257661,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q42745,Q60,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q9696,Q49142,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q517908,Q1741,Q40,AUT,Austria,0.922,0,Europe
+Q1403472,Q1741,Q40,AUT,Austria,0.922,0,Europe
+Q1398,Q15710617,Q38,ITA,Italy,0.892,0,Europe
+Q39837,Q5818,Q29,ESP,Spain,0.904,0,Europe
+Q6691,Q160483,Q41,GRC,Greece,0.888,0,Europe
+Q859,Q1524,Q41,GRC,Greece,0.888,0,Europe
+Q8581,Q165444,Q796,IRQ,Iraq,0.674,1,Asia
+Q342419,Q277162,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1272489,Q39121,Q145,GBR,United Kingdom,0.932,0,Europe
+Q13888,Q490,Q38,ITA,Italy,0.892,0,Europe
+Q106529,Q370498,Q142,FRA,France,0.901,0,Europe
+Q107006,Q3572,Q948,TUN,Tunisia,0.74,1,Africa
+Q57231,Q2107,Q183,DEU,Germany,0.947,0,Europe
+Q174943,Q405166,Q219,BGR,Bulgaria,0.816,0,Europe
+Q170386,Q220,Q38,ITA,Italy,0.892,0,Europe
+Q1405,Q220,Q38,ITA,Italy,0.892,0,Europe
+Q28975,Q29303,Q145,GBR,United Kingdom,0.932,0,Europe
+Q41871,Q1065497,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q5235902,Q1065497,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q230023,Q172455,Q142,FRA,France,0.901,0,Europe
+Q364083,Q23482,Q142,FRA,France,0.901,0,Europe
+Q106001,Q90,Q142,FRA,France,0.901,0,Europe
+Q484779,Q90,Q142,FRA,France,0.901,0,Europe
+Q207,Q49145,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q16005909,Q49145,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1111386,Q49145,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q4730637,Q18419,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1474823,Q18419,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1255794,Q18419,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q5480583,Q18419,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q318267,Q838791,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q773523,Q24826,Q145,GBR,United Kingdom,0.932,0,Europe
+Q234539,Q24826,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3528697,Q24826,Q145,GBR,United Kingdom,0.932,0,Europe
+Q7639958,Q24826,Q145,GBR,United Kingdom,0.932,0,Europe
+Q6266817,Q581328,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q352,Q360607,Q40,AUT,Austria,0.922,0,Europe
+Q652715,Q37995,Q836,MMR,Myanmar,0.583,1,Asia
+Q312702,Q5043241,Q145,GBR,United Kingdom,0.932,0,Europe
+Q172183,Q773891,Q184,BLR,Belarus,0.823,0,Europe
+Q172183,Q773891,Q184,,Belarus,0.823,0,
+Q311311,Q994,Q230,GEO,Georgia,0.812,1,Asia
+Q55198,Q1718330,Q212,UKR,Ukraine,0.779,0,Europe
+Q1124,Q80008,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q74032,Q2012320,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q170512,Q54205,Q262,DZA,Algeria,0.748,1,Africa
+Q223687,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q36153,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q241701,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q257271,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q40090,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q316647,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q231228,Q16555,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q104514,Q58994,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q352109,Q23436,Q145,GBR,United Kingdom,0.932,0,Europe
+Q9545,Q23436,Q145,GBR,United Kingdom,0.932,0,Europe
+Q975488,Q23436,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3454159,Q854,Q854,LKA,Sri Lanka,0.782,1,Asia
+Q500046,Q71,Q39,CHE,Switzerland,0.955,0,Europe
+Q318734,Q146659,Q145,GBR,United Kingdom,0.932,0,Europe
+Q61193,Q1156,Q668,IND,India,0.645,1,Asia
+Q6123506,Q614890,Q668,IND,India,0.645,1,Asia
+Q228928,Q25395,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q294927,Q25395,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q18563278,Q34713,Q40,AUT,Austria,0.922,0,Europe
+Q51541,Q2153758,Q145,GBR,United Kingdom,0.932,0,Europe
+Q301816,Q2143313,Q408,AUS,Australia,0.944,0,Oceania
+Q23,Q494413,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q220845,Q185075,Q142,FRA,France,0.901,0,Europe
+Q207140,Q237614,Q796,IRQ,Iraq,0.674,1,Asia
+Q723780,Q753830,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q236702,Q1089224,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q486559,Q12599383,Q884,KOR,South Korea,0.916,1,Asia
+Q137727,Q11499717,Q17,JPN,Japan,0.919,0,Asia
+Q264596,Q3478019,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q7196241,Q28848,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q230736,Q43668,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q318231,Q43668,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q36107,Q43668,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1372703,Q690991,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q10731,Q490385,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q187085,Q281749,Q145,GBR,United Kingdom,0.932,0,Europe
+Q684748,Q1913106,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q447879,Q36091,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q524386,Q36091,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q294185,Q4890651,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q129831,Q989919,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q18938,Q5092,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q314926,Q5092,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q716552,Q182923,Q145,GBR,United Kingdom,0.932,0,Europe
+Q126941,Q138391,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q462955,Q138391,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3573163,Q214056,Q17,JPN,Japan,0.919,0,Asia
+Q418649,Q179645,Q17,JPN,Japan,0.919,0,Asia
+Q1187760,Q38283,Q17,JPN,Japan,0.919,0,Asia
+Q49547,Q232641,Q17,JPN,Japan,0.919,0,Asia
+Q1142856,Q201659,Q17,JPN,Japan,0.919,0,Asia
+Q1625322,Q164234,Q17,JPN,Japan,0.919,0,Asia
+Q1383899,Q502437,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q6374029,Q184599,Q27,IRL,Ireland,0.955,0,Europe
+Q80492,Q3115405,Q225,BIH,Bosnia and Herzegovina,0.78,0,Europe
+Q964414,Q222084,Q225,BIH,Bosnia and Herzegovina,0.78,0,Europe
+Q254876,Q2720261,Q145,GBR,United Kingdom,0.932,0,Europe
+Q934461,Q4898677,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3129345,Q729006,Q145,GBR,United Kingdom,0.932,0,Europe
+Q2833080,Q578750,Q145,GBR,United Kingdom,0.932,0,Europe
+Q2701959,Q12439,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q56094,Q12439,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1618,Q12439,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q550653,Q12439,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q14313,Q49259,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q232876,Q58900,Q145,GBR,United Kingdom,0.932,0,Europe
+Q63586,Q153974,Q183,DEU,Germany,0.947,0,Europe
+Q124446,Q677710,Q39,CHE,Switzerland,0.955,0,Europe
+Q1636973,Q1781,Q28,HUN,Hungary,0.854,0,Europe
+Q6050046,Q145,Q145,GBR,United Kingdom,0.932,0,Europe
+Q2824489,Q23154,Q145,GBR,United Kingdom,0.932,0,Europe
+Q544165,Q743521,Q145,GBR,United Kingdom,0.932,0,Europe
+Q206856,Q2065416,Q145,GBR,United Kingdom,0.932,0,Europe
+Q62016,Q315138,Q183,DEU,Germany,0.947,0,Europe
+Q214601,Q810794,Q145,GBR,United Kingdom,0.932,0,Europe
+Q254766,Q150120,Q145,GBR,United Kingdom,0.932,0,Europe
+Q24632,Q4093,Q145,GBR,United Kingdom,0.932,0,Europe
+Q151113,Q200942,Q145,GBR,United Kingdom,0.932,0,Europe
+Q380856,Q3904,Q1050,SWZ,Eswatini,0.611,1,Africa
+Q185079,Q180057,Q145,GBR,United Kingdom,0.932,0,Europe
+Q163286,Q4982607,Q145,GBR,United Kingdom,0.932,0,Europe
+Q254886,Q170115,Q668,IND,India,0.645,1,Asia
+Q134262,Q985648,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q90697,Q83032,Q183,DEU,Germany,0.947,0,Europe
+Q107545,Q4190,Q183,DEU,Germany,0.947,0,Europe
+Q267335,Q33935,Q801,ISR,Israel,0.919,1,Asia
+Q706526,Q33935,Q801,ISR,Israel,0.919,1,Asia
+Q43723,Q33935,Q801,ISR,Israel,0.919,1,Asia
+Q2571747,Q404491,Q142,FRA,France,0.901,0,Europe
+Q2830523,Q207823,Q142,FRA,France,0.901,0,Europe
+Q1727806,Q6225,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1168182,Q6225,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3016509,Q6225,Q145,GBR,United Kingdom,0.932,0,Europe
+Q183178,Q6225,Q145,GBR,United Kingdom,0.932,0,Europe
+Q9588,Q493518,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3380712,Q1022945,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q714909,Q575355,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q458833,Q486860,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q927824,Q23197,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q108366,Q840668,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q17385586,Q19818354,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q42775,Q79417,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q94041,Q11299,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q892444,Q11299,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2062642,Q7996944,Q145,GBR,United Kingdom,0.932,0,Europe
+Q38222,Q204561,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q40067,Q16558,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2831,Q184116,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q409,Q1799655,Q766,JAM,Jamaica,0.734,1,LatinAmericaAndCaribbean
+Q36949,Q205380,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q547486,Q18125,Q145,GBR,United Kingdom,0.932,0,Europe
+Q313704,Q211870,Q145,GBR,United Kingdom,0.932,0,Europe
+Q267577,Q2621237,Q218,ROU,Romania,0.828,0,Europe
+Q128799,Q41211,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q43432,Q16563,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q56008,Q39561,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q296774,Q39561,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q162621,Q172,Q16,CAN,Canada,0.929,0,NorthAmerica
+Q104109,Q172,Q16,CAN,Canada,0.929,0,NorthAmerica
+Q25089,Q18426,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q183532,Q18426,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q4935658,Q18426,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q16116980,Q17,Q17,JPN,Japan,0.919,0,Asia
+Q40069,Q40194,Q96,MEX,Mexico,0.779,1,LatinAmericaAndCaribbean
+Q5928,Q5083,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q342665,Q5083,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3644511,Q5083,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q367691,Q29245,Q145,GBR,United Kingdom,0.932,0,Europe
+Q232837,Q34006,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q309640,Q34006,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q459230,Q23556,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1514,Q45400,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q36844,Q819170,Q244,BRB,Barbados,0.814,1,LatinAmericaAndCaribbean
+Q5092714,Q54140,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q215120,Q386657,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q328718,Q947400,Q145,GBR,United Kingdom,0.932,0,Europe
+Q306,Q2887,Q298,CHL,Chile,0.851,1,LatinAmericaAndCaribbean
+Q145823,Q189074,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q5679524,Q131301,Q858,SYR,Syria,0.567,1,Asia
+Q6957562,Q858,Q858,SYR,Syria,0.567,1,Asia
+Q7404049,Q858,Q858,SYR,Syria,0.567,1,Asia
+Q45189358,Q858,Q858,SYR,Syria,0.567,1,Asia
+Q4665502,Q858,Q858,SYR,Syria,0.567,1,Asia
+Q1188632,Q725514,Q17,JPN,Japan,0.919,0,Asia
+Q1421525,Q13410,Q38,ITA,Italy,0.892,0,Europe
+Q3497946,Q6572,Q38,ITA,Italy,0.892,0,Europe
+Q1365312,Q990376,Q17,JPN,Japan,0.919,0,Asia
+Q2308310,Q45798,Q17,JPN,Japan,0.919,0,Asia
+Q331953,Q174691,Q17,JPN,Japan,0.919,0,Asia
+Q957989,Q79385,Q17,JPN,Japan,0.919,0,Asia
+Q2427349,Q207321,Q17,JPN,Japan,0.919,0,Asia
+Q583806,Q336438,Q17,JPN,Japan,0.919,0,Asia
+Q2213316,Q188806,Q17,JPN,Japan,0.919,0,Asia
+Q7685767,Q3766,Q858,SYR,Syria,0.567,1,Asia
+Q3167097,Q142039,Q16,CAN,Canada,0.929,0,NorthAmerica
+Q1337736,Q40435,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1364838,Q40435,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q7846762,Q444210,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q88242,Q4007,Q183,DEU,Germany,0.947,0,Europe
+Q2936255,Q3718,Q1041,SEN,Senegal,0.512,1,Africa
+Q11781543,Q127623,Q33,FIN,Finland,0.938,0,Europe
+Q1186577,Q37951,Q17,JPN,Japan,0.919,0,Asia
+Q4413243,Q138578,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q353520,Q1792879,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1173922,Q606385,Q408,AUS,Australia,0.944,0,Oceania
+Q1403952,Q1009324,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3531920,Q271619,Q833,MYS,Malaysia,0.81,1,Asia
+Q214289,Q271619,Q833,MYS,Malaysia,0.81,1,Asia
+Q7051494,Q1015690,Q664,NZL,New Zealand,0.931,0,Oceania
+Q2837676,Q5016879,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3116311,Q1016925,Q145,GBR,United Kingdom,0.932,0,Europe
+Q981948,Q6497774,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1720081,Q23051,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3002051,Q23051,Q145,GBR,United Kingdom,0.932,0,Europe
+Q361536,Q23051,Q145,GBR,United Kingdom,0.932,0,Europe
+Q47664,Q23051,Q145,GBR,United Kingdom,0.932,0,Europe
+Q5210548,Q1026386,Q664,NZL,New Zealand,0.931,0,Oceania
+Q3308056,Q3224,Q408,AUS,Australia,0.944,0,Oceania
+Q2337839,Q1027291,Q258,ZAF,South Africa,0.709,1,Africa
+Q1349193,Q863727,Q954,ZWE,Zimbabwe,0.571,1,Africa
+Q2470314,Q993721,Q258,ZAF,South Africa,0.709,1,Africa
+Q612279,Q5468,Q258,ZAF,South Africa,0.709,1,Africa
+Q7430937,Q2096823,Q258,ZAF,South Africa,0.709,1,Africa
+Q2752141,Q781510,Q155,BRA,Brazil,0.765,1,LatinAmericaAndCaribbean
+Q2188375,Q3935,Q1030,NAM,Namibia,0.646,1,Africa
+Q3560510,Q2289257,Q218,ROU,Romania,0.828,0,Europe
+Q926512,Q202351,Q218,ROU,Romania,0.828,0,Europe
+Q359484,Q168057,Q218,ROU,Romania,0.828,0,Europe
+Q202877,Q7419386,Q754,TTO,Trinidad and Tobago,0.796,1,LatinAmericaAndCaribbean
+Q555240,Q7898645,Q408,AUS,Australia,0.944,0,Oceania
+Q1101987,Q10717,Q734,GUY,Guyana,0.682,1,LatinAmericaAndCaribbean
+Q5040337,Q10717,Q734,GUY,Guyana,0.682,1,LatinAmericaAndCaribbean
+Q2743480,Q478147,Q408,AUS,Australia,0.944,0,Oceania
+Q967484,Q7893831,Q734,GUY,Guyana,0.682,1,LatinAmericaAndCaribbean
+Q3017555,Q339527,Q408,AUS,Australia,0.944,0,Oceania
+Q472649,Q339527,Q408,AUS,Australia,0.944,0,Oceania
+Q7491013,Q175262,Q408,AUS,Australia,0.944,0,Oceania
+Q983740,Q34692,Q766,JAM,Jamaica,0.734,1,LatinAmericaAndCaribbean
+Q7349553,Q34692,Q766,JAM,Jamaica,0.734,1,LatinAmericaAndCaribbean
+Q3177366,Q3350503,Q408,AUS,Australia,0.944,0,Oceania
+Q3107289,Q4882079,Q408,AUS,Australia,0.944,0,Oceania
+Q26992,Q5744618,Q408,AUS,Australia,0.944,0,Oceania
+Q7153163,Q4951523,Q408,AUS,Australia,0.944,0,Oceania
+Q1392178,Q706105,Q408,AUS,Australia,0.944,0,Oceania
+Q7495466,Q3560209,Q244,BRB,Barbados,0.814,1,LatinAmericaAndCaribbean
+Q3763931,Q265115,Q766,JAM,Jamaica,0.734,1,LatinAmericaAndCaribbean
+Q6313384,Q41547,Q769,GRD,Grenada,0.779,1,LatinAmericaAndCaribbean
+Q16214515,Q7627358,Q757,VCT,Saint Vincent and the Grenadines,0.738,1,LatinAmericaAndCaribbean
+Q3007862,Q1771579,Q781,ATG,Antigua and Barbuda,0.778,1,LatinAmericaAndCaribbean
+Q7360273,Q39178,Q754,TTO,Trinidad and Tobago,0.796,1,LatinAmericaAndCaribbean
+Q2024205,Q188096,Q833,MYS,Malaysia,0.81,1,Asia
+Q958235,Q1106689,Q833,MYS,Malaysia,0.81,1,Asia
+Q979967,Q4119464,Q252,IDN,Indonesia,0.718,1,Asia
+Q1001420,Q3741,Q252,IDN,Indonesia,0.718,1,Asia
+Q463102,Q650908,Q252,IDN,Indonesia,0.718,1,Asia
+Q272479,Q545479,Q148,CHN,People's Republic of China,0.761,0,Asia
+Q265153,Q3630,Q252,IDN,Indonesia,0.718,1,Asia
+Q275158,Q4970,Q148,CHN,People's Republic of China,0.761,0,Asia
+Q1917844,Q252,Q252,IDN,Indonesia,0.718,1,Asia
+Q464589,Q10399,Q252,IDN,Indonesia,0.718,1,Asia
+Q357936,Q138518,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q134062,Q1646181,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1052322,Q202059,Q145,GBR,United Kingdom,0.932,0,Europe
+Q162629,Q202059,Q145,GBR,United Kingdom,0.932,0,Europe
+Q329073,Q33486,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q709449,Q33486,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q139890,Q47430,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q43203,Q62,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q18350026,Q18383,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q456910,Q495353,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q512103,Q17042,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2444076,Q913495,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q131405,Q841957,Q142,FRA,France,0.901,0,Europe
+Q299565,Q23159,Q145,GBR,United Kingdom,0.932,0,Europe
+Q185122,Q605220,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q263906,Q49111,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2249390,Q16567,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q240250,Q2361794,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q304828,Q489255,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1365755,Q2304357,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q325427,Q575677,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q234117,Q49227,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q313040,Q462177,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q6220032,Q1087121,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q374447,Q1996092,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q212518,Q501170,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q215849,Q54151,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q888391,Q513919,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q37340,Q173148,Q41,GRC,Greece,0.888,0,Europe
+Q6519669,Q2010938,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q65448,Q203675,Q37,LTU,Lithuania,0.882,0,Europe
+Q1607291,Q769,Q769,GRD,Grenada,0.779,1,LatinAmericaAndCaribbean
+Q2960422,Q3080833,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3109112,Q8818,Q29,ESP,Spain,0.904,0,Europe
+Q294819,Q189043,Q155,BRA,Brazil,0.765,1,LatinAmericaAndCaribbean
+Q2130828,Q80517,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q454541,Q1546,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1372180,Q36281,Q784,DMA,Dominica,0.742,1,LatinAmericaAndCaribbean
+Q722890,Q25610,Q145,GBR,United Kingdom,0.932,0,Europe
+Q123351,Q2886632,Q145,GBR,United Kingdom,0.932,0,Europe
+Q134333,Q146891,Q145,GBR,United Kingdom,0.932,0,Europe
+Q722038,Q28198,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1281792,Q173338,Q236,MNE,Montenegro,0.829,0,Europe
+Q1396875,Q157034,Q221,MKD,North Macedonia,0.774,0,Europe
+Q318461,Q316841,Q219,BGR,Bulgaria,0.816,0,Europe
+Q347118,Q405351,Q219,BGR,Bulgaria,0.816,0,Europe
+Q294404,Q214173,Q419,PER,Peru,0.777,1,LatinAmericaAndCaribbean
+Q276302,Q486439,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q28935,Q169132,Q843,PAK,Pakistan,0.557,1,Asia
+Q2680,Q16119,Q183,DEU,Germany,0.947,0,Europe
+Q40026,Q840133,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q43044,Q33561,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q105460,Q33561,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q38203,Q79606,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q4945589,Q54189,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q6913689,Q79421,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q4798786,Q49218,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q180989,Q2671185,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q162820,Q985636,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q15460850,Q1345,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q51559,Q1345,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q15436540,Q845015,Q145,GBR,United Kingdom,0.932,0,Europe
+Q2478543,Q986210,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q463265,Q28249,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q61742302,Q23105,Q145,GBR,United Kingdom,0.932,0,Europe
+Q3876884,Q170377,Q145,GBR,United Kingdom,0.932,0,Europe
+Q212790,Q170377,Q145,GBR,United Kingdom,0.932,0,Europe
+Q983928,Q1563,Q241,CUB,Cuba,0.783,1,LatinAmericaAndCaribbean
+Q3498411,Q1026587,Q225,BIH,Bosnia and Herzegovina,0.78,0,Europe
+Q550413,Q180731,Q225,BIH,Bosnia and Herzegovina,0.78,0,Europe
+Q34211,Q85,Q79,EGY,Egypt,0.707,1,Africa
+Q159995,Q1720,Q183,DEU,Germany,0.947,0,Europe
+Q193752,Q1296,Q31,BEL,Belgium,0.931,0,Europe
+Q245315,Q198244,Q148,CHN,People's Republic of China,0.761,0,Asia
+Q313327,Q16967,Q148,CHN,People's Republic of China,0.761,0,Asia
+Q470080,Q1360165,Q148,CHN,People's Republic of China,0.761,0,Asia
+Q2638175,Q43919,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q5443,Q3427889,Q34,SWE,Sweden,0.945,0,Europe
+Q191104,Q5478784,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1413,Q16010710,Q38,ITA,Italy,0.892,0,Europe
+Q189422,Q193920,Q142,FRA,France,0.901,0,Europe
+Q717539,Q6602,Q142,FRA,France,0.901,0,Europe
+Q171826,Q79815,Q142,FRA,France,0.901,0,Europe
+Q57316,Q1721,Q183,DEU,Germany,0.947,0,Europe
+Q182580,Q47164,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q741456,Q44198,Q16,CAN,Canada,0.929,0,NorthAmerica
+Q1235503,Q2135,Q16,CAN,Canada,0.929,0,NorthAmerica
+Q6796120,Q26888,Q145,GBR,United Kingdom,0.932,0,Europe
+Q106143,Q23311,Q145,GBR,United Kingdom,0.932,0,Europe
+Q2622622,Q87,Q79,EGY,Egypt,0.707,1,Africa
+Q762,Q154184,Q38,ITA,Italy,0.892,0,Europe
+Q104127,Q16554,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q5491663,Q501761,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q170572,Q472509,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q7964331,Q271395,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2808,Q2453742,Q145,GBR,United Kingdom,0.932,0,Europe
+Q194419,Q880861,Q145,GBR,United Kingdom,0.932,0,Europe
+Q213581,Q1899,Q212,UKR,Ukraine,0.779,0,Europe
+Q62503,Q485176,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q103646,Q3041247,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3439358,Q26887,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q307473,Q44840,Q191,EST,Estonia,0.892,0,Europe
+Q189564,Q2243332,Q142,FRA,France,0.901,0,Europe
+Q484615,Q16559,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q17131,Q1284,Q38,ITA,Italy,0.892,0,Europe
+Q9036,Q367211,Q224,HRV,Croatia,0.851,0,Europe
+Q163861,Q285599,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q461726,Q6576,Q159,RUS,Russia,0.824,0,Europe
+Q131380,Q203263,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q314290,Q1193936,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q42891,Q200311,Q668,IND,India,0.645,1,Asia
+Q517,Q40104,Q142,FRA,France,0.901,0,Europe
+Q6983877,Q18424,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q162202,Q7401398,Q754,TTO,Trinidad and Tobago,0.796,1,LatinAmericaAndCaribbean
+Q41076,Q999123,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q376260,Q462799,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q310556,Q991387,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q40531,Q983796,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q215359,Q986432,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q730887,Q1058775,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q162667,Q38249663,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q272253,Q2159423,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q185165,Q350,Q145,GBR,United Kingdom,0.932,0,Europe
+Q1101838,Q62569,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q2440207,Q100,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3542638,Q100,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q80405,Q991369,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q1077729,Q4915499,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q436699,Q580973,Q408,AUS,Australia,0.944,0,Oceania
+Q51522,Q638187,Q30,USA,United States of America,0.926,0,NorthAmerica
+Q3317284,Q131491,Q145,GBR,United Kingdom,0.932,0,Europe
+Q64528,Q3912,Q183,DEU,Germany,0.947,0,Europe
+Q78587,Q331772,Q40,AUT,Austria,0.922,0,Europe
+Q558718,Q15909714,Q148,CHN,People's Republic of China,0.761,0,Asia
+Q155390,Q58976,Q41,GRC,Greece,0.888,0,Europe
+Q1554548,Q767820,Q794,IRN,Iran,0.783,0,Asia
+Q57410,Q1022491,Q184,BLR,Belarus,0.823,0,Europe
+Q57410,Q1022491,Q184,,Belarus,0.823,0,

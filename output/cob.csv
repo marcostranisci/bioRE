@@ -1,0 +1,479 @@
+wd_id,P17,CountryIsoCode,WikidataLabel,hdi,FormerColony,Continent
+Q661405,Q754,TTO,Trinidad and Tobago,0.796,True,LatinAmericaAndCaribbean
+Q7419386,Q754,TTO,Trinidad and Tobago,0.796,True,LatinAmericaAndCaribbean
+Q39178,Q754,TTO,Trinidad and Tobago,0.796,True,LatinAmericaAndCaribbean
+Q7401398,Q754,TTO,Trinidad and Tobago,0.796,True,LatinAmericaAndCaribbean
+Q1352,Q668,IND,India,0.645,True,Asia
+Q1348,Q668,IND,India,0.645,True,Asia
+Q1156,Q668,IND,India,0.645,True,Asia
+Q614890,Q668,IND,India,0.645,True,Asia
+Q170115,Q668,IND,India,0.645,True,Asia
+Q200311,Q668,IND,India,0.645,True,Asia
+Q1007088,Q145,GBR,United Kingdom,0.932,,Europe
+Q2213391,Q145,GBR,United Kingdom,0.932,,Europe
+Q935686,Q145,GBR,United Kingdom,0.932,,Europe
+Q1425428,Q145,GBR,United Kingdom,0.932,,Europe
+Q1339305,Q145,GBR,United Kingdom,0.932,,Europe
+Q4576305,Q145,GBR,United Kingdom,0.932,,Europe
+Q83609,Q145,GBR,United Kingdom,0.932,,Europe
+Q1017537,Q145,GBR,United Kingdom,0.932,,Europe
+Q34217,Q145,GBR,United Kingdom,0.932,,Europe
+Q19186,Q145,GBR,United Kingdom,0.932,,Europe
+Q1231883,Q145,GBR,United Kingdom,0.932,,Europe
+Q277162,Q145,GBR,United Kingdom,0.932,,Europe
+Q39121,Q145,GBR,United Kingdom,0.932,,Europe
+Q29303,Q145,GBR,United Kingdom,0.932,,Europe
+Q24826,Q145,GBR,United Kingdom,0.932,,Europe
+Q5043241,Q145,GBR,United Kingdom,0.932,,Europe
+Q23436,Q145,GBR,United Kingdom,0.932,,Europe
+Q146659,Q145,GBR,United Kingdom,0.932,,Europe
+Q2153758,Q145,GBR,United Kingdom,0.932,,Europe
+Q281749,Q145,GBR,United Kingdom,0.932,,Europe
+Q182923,Q145,GBR,United Kingdom,0.932,,Europe
+Q2720261,Q145,GBR,United Kingdom,0.932,,Europe
+Q4898677,Q145,GBR,United Kingdom,0.932,,Europe
+Q729006,Q145,GBR,United Kingdom,0.932,,Europe
+Q578750,Q145,GBR,United Kingdom,0.932,,Europe
+Q58900,Q145,GBR,United Kingdom,0.932,,Europe
+Q145,Q145,GBR,United Kingdom,0.932,,Europe
+Q23154,Q145,GBR,United Kingdom,0.932,,Europe
+Q743521,Q145,GBR,United Kingdom,0.932,,Europe
+Q2065416,Q145,GBR,United Kingdom,0.932,,Europe
+Q810794,Q145,GBR,United Kingdom,0.932,,Europe
+Q150120,Q145,GBR,United Kingdom,0.932,,Europe
+Q4093,Q145,GBR,United Kingdom,0.932,,Europe
+Q24826,Q145,GBR,United Kingdom,0.932,,Europe
+Q200942,Q145,GBR,United Kingdom,0.932,,Europe
+Q180057,Q145,GBR,United Kingdom,0.932,,Europe
+Q4982607,Q145,GBR,United Kingdom,0.932,,Europe
+Q6225,Q145,GBR,United Kingdom,0.932,,Europe
+Q7996944,Q145,GBR,United Kingdom,0.932,,Europe
+Q18125,Q145,GBR,United Kingdom,0.932,,Europe
+Q211870,Q145,GBR,United Kingdom,0.932,,Europe
+Q29245,Q145,GBR,United Kingdom,0.932,,Europe
+Q947400,Q145,GBR,United Kingdom,0.932,,Europe
+Q1792879,Q145,GBR,United Kingdom,0.932,,Europe
+Q1009324,Q145,GBR,United Kingdom,0.932,,Europe
+Q24826,Q145,GBR,United Kingdom,0.932,,Europe
+Q5016879,Q145,GBR,United Kingdom,0.932,,Europe
+Q1016925,Q145,GBR,United Kingdom,0.932,,Europe
+Q6497774,Q145,GBR,United Kingdom,0.932,,Europe
+Q23051,Q145,GBR,United Kingdom,0.932,,Europe
+Q6225,Q145,GBR,United Kingdom,0.932,,Europe
+Q1646181,Q145,GBR,United Kingdom,0.932,,Europe
+Q202059,Q145,GBR,United Kingdom,0.932,,Europe
+Q23159,Q145,GBR,United Kingdom,0.932,,Europe
+Q25610,Q145,GBR,United Kingdom,0.932,,Europe
+Q2886632,Q145,GBR,United Kingdom,0.932,,Europe
+Q146891,Q145,GBR,United Kingdom,0.932,,Europe
+Q845015,Q145,GBR,United Kingdom,0.932,,Europe
+Q24826,Q145,GBR,United Kingdom,0.932,,Europe
+Q23105,Q145,GBR,United Kingdom,0.932,,Europe
+Q170377,Q145,GBR,United Kingdom,0.932,,Europe
+Q5478784,Q145,GBR,United Kingdom,0.932,,Europe
+Q23051,Q145,GBR,United Kingdom,0.932,,Europe
+Q26888,Q145,GBR,United Kingdom,0.932,,Europe
+Q23311,Q145,GBR,United Kingdom,0.932,,Europe
+Q2453742,Q145,GBR,United Kingdom,0.932,,Europe
+Q880861,Q145,GBR,United Kingdom,0.932,,Europe
+Q202059,Q145,GBR,United Kingdom,0.932,,Europe
+Q23051,Q145,GBR,United Kingdom,0.932,,Europe
+Q350,Q145,GBR,United Kingdom,0.932,,Europe
+Q6225,Q145,GBR,United Kingdom,0.932,,Europe
+Q131491,Q145,GBR,United Kingdom,0.932,,Europe
+Q5112,Q408,AUS,Australia,0.944,,Oceania
+Q34932,Q408,AUS,Australia,0.944,,Oceania
+Q3141,Q408,AUS,Australia,0.944,,Oceania
+Q3130,Q408,AUS,Australia,0.944,,Oceania
+Q2143313,Q408,AUS,Australia,0.944,,Oceania
+Q3130,Q408,AUS,Australia,0.944,,Oceania
+Q3130,Q408,AUS,Australia,0.944,,Oceania
+Q34932,Q408,AUS,Australia,0.944,,Oceania
+Q3130,Q408,AUS,Australia,0.944,,Oceania
+Q606385,Q408,AUS,Australia,0.944,,Oceania
+Q3130,Q408,AUS,Australia,0.944,,Oceania
+Q3224,Q408,AUS,Australia,0.944,,Oceania
+Q34932,Q408,AUS,Australia,0.944,,Oceania
+Q7898645,Q408,AUS,Australia,0.944,,Oceania
+Q478147,Q408,AUS,Australia,0.944,,Oceania
+Q5112,Q408,AUS,Australia,0.944,,Oceania
+Q339527,Q408,AUS,Australia,0.944,,Oceania
+Q175262,Q408,AUS,Australia,0.944,,Oceania
+Q3350503,Q408,AUS,Australia,0.944,,Oceania
+Q4882079,Q408,AUS,Australia,0.944,,Oceania
+Q5744618,Q408,AUS,Australia,0.944,,Oceania
+Q4951523,Q408,AUS,Australia,0.944,,Oceania
+Q706105,Q408,AUS,Australia,0.944,,Oceania
+Q580973,Q408,AUS,Australia,0.944,,Oceania
+Q1113311,Q843,PAK,Pakistan,0.557,True,Asia
+Q169132,Q843,PAK,Pakistan,0.557,True,Asia
+Q456,Q142,FRA,France,0.901,,Europe
+Q272347,Q142,FRA,France,0.901,,Europe
+Q370498,Q142,FRA,France,0.901,,Europe
+Q172455,Q142,FRA,France,0.901,,Europe
+Q23482,Q142,FRA,France,0.901,,Europe
+Q90,Q142,FRA,France,0.901,,Europe
+Q185075,Q142,FRA,France,0.901,,Europe
+Q404491,Q142,FRA,France,0.901,,Europe
+Q207823,Q142,FRA,France,0.901,,Europe
+Q841957,Q142,FRA,France,0.901,,Europe
+Q90,Q142,FRA,France,0.901,,Europe
+Q193920,Q142,FRA,France,0.901,,Europe
+Q6602,Q142,FRA,France,0.901,,Europe
+Q79815,Q142,FRA,France,0.901,,Europe
+Q2243332,Q142,FRA,France,0.901,,Europe
+Q40104,Q142,FRA,France,0.901,,Europe
+Q38022,Q30,USA,United States of America,0.926,,NorthAmerica
+Q375070,Q30,USA,United States of America,0.926,,NorthAmerica
+Q997132,Q30,USA,United States of America,0.926,,NorthAmerica
+Q61,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1010236,Q30,USA,United States of America,0.926,,NorthAmerica
+Q65,Q30,USA,United States of America,0.926,,NorthAmerica
+Q939529,Q30,USA,United States of America,0.926,,NorthAmerica
+Q23768,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1006668,Q30,USA,United States of America,0.926,,NorthAmerica
+Q568610,Q30,USA,United States of America,0.926,,NorthAmerica
+Q159288,Q30,USA,United States of America,0.926,,NorthAmerica
+Q685224,Q30,USA,United States of America,0.926,,NorthAmerica
+Q810998,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49158,Q30,USA,United States of America,0.926,,NorthAmerica
+Q485708,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49142,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1065497,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49145,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18419,Q30,USA,United States of America,0.926,,NorthAmerica
+Q838791,Q30,USA,United States of America,0.926,,NorthAmerica
+Q581328,Q30,USA,United States of America,0.926,,NorthAmerica
+Q80008,Q30,USA,United States of America,0.926,,NorthAmerica
+Q2012320,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16555,Q30,USA,United States of America,0.926,,NorthAmerica
+Q65,Q30,USA,United States of America,0.926,,NorthAmerica
+Q58994,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q25395,Q30,USA,United States of America,0.926,,NorthAmerica
+Q494413,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49145,Q30,USA,United States of America,0.926,,NorthAmerica
+Q38022,Q30,USA,United States of America,0.926,,NorthAmerica
+Q753830,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1089224,Q30,USA,United States of America,0.926,,NorthAmerica
+Q3478019,Q30,USA,United States of America,0.926,,NorthAmerica
+Q28848,Q30,USA,United States of America,0.926,,NorthAmerica
+Q43668,Q30,USA,United States of America,0.926,,NorthAmerica
+Q690991,Q30,USA,United States of America,0.926,,NorthAmerica
+Q490385,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1913106,Q30,USA,United States of America,0.926,,NorthAmerica
+Q36091,Q30,USA,United States of America,0.926,,NorthAmerica
+Q4890651,Q30,USA,United States of America,0.926,,NorthAmerica
+Q989919,Q30,USA,United States of America,0.926,,NorthAmerica
+Q5092,Q30,USA,United States of America,0.926,,NorthAmerica
+Q138391,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q502437,Q30,USA,United States of America,0.926,,NorthAmerica
+Q65,Q30,USA,United States of America,0.926,,NorthAmerica
+Q12439,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49259,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q38022,Q30,USA,United States of America,0.926,,NorthAmerica
+Q985648,Q30,USA,United States of America,0.926,,NorthAmerica
+Q493518,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1022945,Q30,USA,United States of America,0.926,,NorthAmerica
+Q575355,Q30,USA,United States of America,0.926,,NorthAmerica
+Q486860,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18419,Q30,USA,United States of America,0.926,,NorthAmerica
+Q23197,Q30,USA,United States of America,0.926,,NorthAmerica
+Q840668,Q30,USA,United States of America,0.926,,NorthAmerica
+Q19818354,Q30,USA,United States of America,0.926,,NorthAmerica
+Q79417,Q30,USA,United States of America,0.926,,NorthAmerica
+Q11299,Q30,USA,United States of America,0.926,,NorthAmerica
+Q204561,Q30,USA,United States of America,0.926,,NorthAmerica
+Q65,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16558,Q30,USA,United States of America,0.926,,NorthAmerica
+Q38022,Q30,USA,United States of America,0.926,,NorthAmerica
+Q184116,Q30,USA,United States of America,0.926,,NorthAmerica
+Q205380,Q30,USA,United States of America,0.926,,NorthAmerica
+Q41211,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16563,Q30,USA,United States of America,0.926,,NorthAmerica
+Q39561,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18426,Q30,USA,United States of America,0.926,,NorthAmerica
+Q12439,Q30,USA,United States of America,0.926,,NorthAmerica
+Q5083,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18426,Q30,USA,United States of America,0.926,,NorthAmerica
+Q34006,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q23556,Q30,USA,United States of America,0.926,,NorthAmerica
+Q45400,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16555,Q30,USA,United States of America,0.926,,NorthAmerica
+Q54140,Q30,USA,United States of America,0.926,,NorthAmerica
+Q386657,Q30,USA,United States of America,0.926,,NorthAmerica
+Q189074,Q30,USA,United States of America,0.926,,NorthAmerica
+Q40435,Q30,USA,United States of America,0.926,,NorthAmerica
+Q444210,Q30,USA,United States of America,0.926,,NorthAmerica
+Q138578,Q30,USA,United States of America,0.926,,NorthAmerica
+Q138518,Q30,USA,United States of America,0.926,,NorthAmerica
+Q5092,Q30,USA,United States of America,0.926,,NorthAmerica
+Q33486,Q30,USA,United States of America,0.926,,NorthAmerica
+Q47430,Q30,USA,United States of America,0.926,,NorthAmerica
+Q62,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18383,Q30,USA,United States of America,0.926,,NorthAmerica
+Q495353,Q30,USA,United States of America,0.926,,NorthAmerica
+Q17042,Q30,USA,United States of America,0.926,,NorthAmerica
+Q913495,Q30,USA,United States of America,0.926,,NorthAmerica
+Q605220,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49111,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16567,Q30,USA,United States of America,0.926,,NorthAmerica
+Q2361794,Q30,USA,United States of America,0.926,,NorthAmerica
+Q489255,Q30,USA,United States of America,0.926,,NorthAmerica
+Q2304357,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q61,Q30,USA,United States of America,0.926,,NorthAmerica
+Q575677,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49227,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16555,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18426,Q30,USA,United States of America,0.926,,NorthAmerica
+Q462177,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1087121,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1996092,Q30,USA,United States of America,0.926,,NorthAmerica
+Q501170,Q30,USA,United States of America,0.926,,NorthAmerica
+Q5083,Q30,USA,United States of America,0.926,,NorthAmerica
+Q54151,Q30,USA,United States of America,0.926,,NorthAmerica
+Q513919,Q30,USA,United States of America,0.926,,NorthAmerica
+Q2010938,Q30,USA,United States of America,0.926,,NorthAmerica
+Q3080833,Q30,USA,United States of America,0.926,,NorthAmerica
+Q65,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q80517,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16555,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1546,Q30,USA,United States of America,0.926,,NorthAmerica
+Q36091,Q30,USA,United States of America,0.926,,NorthAmerica
+Q28198,Q30,USA,United States of America,0.926,,NorthAmerica
+Q43668,Q30,USA,United States of America,0.926,,NorthAmerica
+Q486439,Q30,USA,United States of America,0.926,,NorthAmerica
+Q11299,Q30,USA,United States of America,0.926,,NorthAmerica
+Q840133,Q30,USA,United States of America,0.926,,NorthAmerica
+Q33561,Q30,USA,United States of America,0.926,,NorthAmerica
+Q79606,Q30,USA,United States of America,0.926,,NorthAmerica
+Q54189,Q30,USA,United States of America,0.926,,NorthAmerica
+Q79421,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49218,Q30,USA,United States of America,0.926,,NorthAmerica
+Q2671185,Q30,USA,United States of America,0.926,,NorthAmerica
+Q985636,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1345,Q30,USA,United States of America,0.926,,NorthAmerica
+Q986210,Q30,USA,United States of America,0.926,,NorthAmerica
+Q28249,Q30,USA,United States of America,0.926,,NorthAmerica
+Q43668,Q30,USA,United States of America,0.926,,NorthAmerica
+Q43919,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q47164,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16554,Q30,USA,United States of America,0.926,,NorthAmerica
+Q501761,Q30,USA,United States of America,0.926,,NorthAmerica
+Q472509,Q30,USA,United States of America,0.926,,NorthAmerica
+Q5083,Q30,USA,United States of America,0.926,,NorthAmerica
+Q271395,Q30,USA,United States of America,0.926,,NorthAmerica
+Q485176,Q30,USA,United States of America,0.926,,NorthAmerica
+Q3041247,Q30,USA,United States of America,0.926,,NorthAmerica
+Q26887,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1297,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16559,Q30,USA,United States of America,0.926,,NorthAmerica
+Q65,Q30,USA,United States of America,0.926,,NorthAmerica
+Q285599,Q30,USA,United States of America,0.926,,NorthAmerica
+Q203263,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1193936,Q30,USA,United States of America,0.926,,NorthAmerica
+Q16555,Q30,USA,United States of America,0.926,,NorthAmerica
+Q12439,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18424,Q30,USA,United States of America,0.926,,NorthAmerica
+Q999123,Q30,USA,United States of America,0.926,,NorthAmerica
+Q462799,Q30,USA,United States of America,0.926,,NorthAmerica
+Q60,Q30,USA,United States of America,0.926,,NorthAmerica
+Q991387,Q30,USA,United States of America,0.926,,NorthAmerica
+Q39561,Q30,USA,United States of America,0.926,,NorthAmerica
+Q40435,Q30,USA,United States of America,0.926,,NorthAmerica
+Q138391,Q30,USA,United States of America,0.926,,NorthAmerica
+Q34006,Q30,USA,United States of America,0.926,,NorthAmerica
+Q983796,Q30,USA,United States of America,0.926,,NorthAmerica
+Q986432,Q30,USA,United States of America,0.926,,NorthAmerica
+Q25395,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1058775,Q30,USA,United States of America,0.926,,NorthAmerica
+Q38249663,Q30,USA,United States of America,0.926,,NorthAmerica
+Q2159423,Q30,USA,United States of America,0.926,,NorthAmerica
+Q33561,Q30,USA,United States of America,0.926,,NorthAmerica
+Q62569,Q30,USA,United States of America,0.926,,NorthAmerica
+Q100,Q30,USA,United States of America,0.926,,NorthAmerica
+Q18419,Q30,USA,United States of America,0.926,,NorthAmerica
+Q991369,Q30,USA,United States of America,0.926,,NorthAmerica
+Q49145,Q30,USA,United States of America,0.926,,NorthAmerica
+Q4915499,Q30,USA,United States of America,0.926,,NorthAmerica
+Q1345,Q30,USA,United States of America,0.926,,NorthAmerica
+Q638187,Q30,USA,United States of America,0.926,,NorthAmerica
+Q898468,Q213,CZE,Czech Republic,0.9,,Europe
+Q1085,Q213,CZE,Czech Republic,0.9,,Europe
+Q470369,Q213,CZE,Czech Republic,0.9,,Europe
+Q7903,Q1028,MAR,Morocco,0.686,True,Africa
+Q1993670,Q258,ZAF,South Africa,0.709,True,Africa
+Q1027291,Q258,ZAF,South Africa,0.709,True,Africa
+Q993721,Q258,ZAF,South Africa,0.709,True,Africa
+Q5468,Q258,ZAF,South Africa,0.709,True,Africa
+Q2096823,Q258,ZAF,South Africa,0.709,True,Africa
+Q2807,Q29,ESP,Spain,0.904,,Europe
+Q5818,Q29,ESP,Spain,0.904,,Europe
+Q2807,Q29,ESP,Spain,0.904,,Europe
+Q8818,Q29,ESP,Spain,0.904,,Europe
+Q2807,Q29,ESP,Spain,0.904,,Europe
+Q2805,Q183,DEU,Germany,0.947,,Europe
+Q1726,Q183,DEU,Germany,0.947,,Europe
+Q3012,Q183,DEU,Germany,0.947,,Europe
+Q2107,Q183,DEU,Germany,0.947,,Europe
+Q153974,Q183,DEU,Germany,0.947,,Europe
+Q315138,Q183,DEU,Germany,0.947,,Europe
+Q83032,Q183,DEU,Germany,0.947,,Europe
+Q4190,Q183,DEU,Germany,0.947,,Europe
+Q4007,Q183,DEU,Germany,0.947,,Europe
+Q16119,Q183,DEU,Germany,0.947,,Europe
+Q1720,Q183,DEU,Germany,0.947,,Europe
+Q1721,Q183,DEU,Germany,0.947,,Europe
+Q3912,Q183,DEU,Germany,0.947,,Europe
+Q1486,Q414,ARG,Argentina,0.845,True,LatinAmericaAndCaribbean
+Q1486,Q414,ARG,Argentina,0.845,True,LatinAmericaAndCaribbean
+Q25413,Q34,SWE,Sweden,0.945,,Europe
+Q54764,Q34,SWE,Sweden,0.945,,Europe
+Q10433723,Q34,SWE,Sweden,0.945,,Europe
+Q10519255,Q34,SWE,Sweden,0.945,,Europe
+Q3427889,Q34,SWE,Sweden,0.945,,Europe
+Q55630,Q403,SRB,Serbia,0.806,,Europe
+Q3915,Q1019,MDG,Madagascar,0.528,True,Africa
+Q52981,Q38,ITA,Italy,0.892,,Europe
+Q52691,Q38,ITA,Italy,0.892,,Europe
+Q15710617,Q38,ITA,Italy,0.892,,Europe
+Q490,Q38,ITA,Italy,0.892,,Europe
+Q220,Q38,ITA,Italy,0.892,,Europe
+Q13410,Q38,ITA,Italy,0.892,,Europe
+Q6572,Q38,ITA,Italy,0.892,,Europe
+Q16010710,Q38,ITA,Italy,0.892,,Europe
+Q154184,Q38,ITA,Italy,0.892,,Europe
+Q1284,Q38,ITA,Italy,0.892,,Europe
+Q4455727,Q212,UKR,Ukraine,0.779,,Europe
+Q1718330,Q212,UKR,Ukraine,0.779,,Europe
+Q1899,Q212,UKR,Ukraine,0.779,,Europe
+Q1489,Q96,MEX,Mexico,0.779,True,LatinAmericaAndCaribbean
+Q40194,Q96,MEX,Mexico,0.779,True,LatinAmericaAndCaribbean
+Q1218,Q801,ISR,Israel,0.919,True,Asia
+Q33935,Q801,ISR,Israel,0.919,True,Asia
+Q33935,Q801,ISR,Israel,0.919,True,Asia
+Q33935,Q801,ISR,Israel,0.919,True,Asia
+Q1218,Q801,ISR,Israel,0.919,True,Asia
+Q72,Q39,CHE,Switzerland,0.955,,Europe
+Q71,Q39,CHE,Switzerland,0.955,,Europe
+Q677710,Q39,CHE,Switzerland,0.955,,Europe
+Q1741,Q40,AUT,Austria,0.922,,Europe
+Q360607,Q40,AUT,Austria,0.922,,Europe
+Q34713,Q40,AUT,Austria,0.922,,Europe
+Q1741,Q40,AUT,Austria,0.922,,Europe
+Q331772,Q40,AUT,Austria,0.922,,Europe
+Q160483,Q41,GRC,Greece,0.888,,Europe
+Q1524,Q41,GRC,Greece,0.888,,Europe
+Q173148,Q41,GRC,Greece,0.888,,Europe
+Q58976,Q41,GRC,Greece,0.888,,Europe
+Q165444,Q796,IRQ,Iraq,0.674,True,Asia
+Q237614,Q796,IRQ,Iraq,0.674,True,Asia
+Q3572,Q948,TUN,Tunisia,0.74,True,Africa
+Q405166,Q219,BGR,Bulgaria,0.816,,Europe
+Q316841,Q219,BGR,Bulgaria,0.816,,Europe
+Q405351,Q219,BGR,Bulgaria,0.816,,Europe
+Q37995,Q836,MMR,Myanmar,0.583,True,Asia
+Q773891,Q184,BLR,Belarus,0.823,,Europe
+Q773891,Q184,,Belarus,0.823,,
+Q1022491,Q184,BLR,Belarus,0.823,,Europe
+Q1022491,Q184,,Belarus,0.823,,
+Q994,Q230,GEO,Georgia,0.812,True,Asia
+Q54205,Q262,DZA,Algeria,0.748,True,Africa
+Q854,Q854,LKA,Sri Lanka,0.782,True,Asia
+Q12599383,Q884,KOR,South Korea,0.916,True,Asia
+Q11499717,Q17,JPN,Japan,0.919,False,Asia
+Q214056,Q17,JPN,Japan,0.919,False,Asia
+Q179645,Q17,JPN,Japan,0.919,False,Asia
+Q38283,Q17,JPN,Japan,0.919,False,Asia
+Q232641,Q17,JPN,Japan,0.919,False,Asia
+Q201659,Q17,JPN,Japan,0.919,False,Asia
+Q164234,Q17,JPN,Japan,0.919,False,Asia
+Q17,Q17,JPN,Japan,0.919,False,Asia
+Q725514,Q17,JPN,Japan,0.919,False,Asia
+Q990376,Q17,JPN,Japan,0.919,False,Asia
+Q45798,Q17,JPN,Japan,0.919,False,Asia
+Q174691,Q17,JPN,Japan,0.919,False,Asia
+Q79385,Q17,JPN,Japan,0.919,False,Asia
+Q207321,Q17,JPN,Japan,0.919,False,Asia
+Q336438,Q17,JPN,Japan,0.919,False,Asia
+Q188806,Q17,JPN,Japan,0.919,False,Asia
+Q37951,Q17,JPN,Japan,0.919,False,Asia
+Q184599,Q27,IRL,Ireland,0.955,,Europe
+Q3115405,Q225,BIH,Bosnia and Herzegovina,0.78,,Europe
+Q222084,Q225,BIH,Bosnia and Herzegovina,0.78,,Europe
+Q1026587,Q225,BIH,Bosnia and Herzegovina,0.78,,Europe
+Q180731,Q225,BIH,Bosnia and Herzegovina,0.78,,Europe
+Q1781,Q28,HUN,Hungary,0.854,,Europe
+Q3904,Q1050,SWZ,Eswatini,0.611,True,Africa
+Q1799655,Q766,JAM,Jamaica,0.734,True,LatinAmericaAndCaribbean
+Q34692,Q766,JAM,Jamaica,0.734,True,LatinAmericaAndCaribbean
+Q265115,Q766,JAM,Jamaica,0.734,True,LatinAmericaAndCaribbean
+Q2621237,Q218,ROU,Romania,0.828,,Europe
+Q2289257,Q218,ROU,Romania,0.828,,Europe
+Q202351,Q218,ROU,Romania,0.828,,Europe
+Q168057,Q218,ROU,Romania,0.828,,Europe
+Q172,Q16,CAN,Canada,0.929,,NorthAmerica
+Q142039,Q16,CAN,Canada,0.929,,NorthAmerica
+Q44198,Q16,CAN,Canada,0.929,,NorthAmerica
+Q2135,Q16,CAN,Canada,0.929,,NorthAmerica
+Q172,Q16,CAN,Canada,0.929,,NorthAmerica
+Q819170,Q244,BRB,Barbados,0.814,True,LatinAmericaAndCaribbean
+Q3560209,Q244,BRB,Barbados,0.814,True,LatinAmericaAndCaribbean
+Q2887,Q298,CHL,Chile,0.851,True,LatinAmericaAndCaribbean
+Q131301,Q858,SYR,Syria,0.567,True,Asia
+Q858,Q858,SYR,Syria,0.567,True,Asia
+Q3766,Q858,SYR,Syria,0.567,True,Asia
+Q3718,Q1041,SEN,Senegal,0.512,True,Africa
+Q127623,Q33,FIN,Finland,0.938,,Europe
+Q271619,Q833,MYS,Malaysia,0.81,True,Asia
+Q188096,Q833,MYS,Malaysia,0.81,True,Asia
+Q1106689,Q833,MYS,Malaysia,0.81,True,Asia
+Q271619,Q833,MYS,Malaysia,0.81,True,Asia
+Q1015690,Q664,NZL,New Zealand,0.931,,Oceania
+Q1026386,Q664,NZL,New Zealand,0.931,,Oceania
+Q863727,Q954,ZWE,Zimbabwe,0.571,True,Africa
+Q781510,Q155,BRA,Brazil,0.765,True,LatinAmericaAndCaribbean
+Q189043,Q155,BRA,Brazil,0.765,True,LatinAmericaAndCaribbean
+Q3935,Q1030,NAM,Namibia,0.646,True,Africa
+Q10717,Q734,GUY,Guyana,0.682,True,LatinAmericaAndCaribbean
+Q7893831,Q734,GUY,Guyana,0.682,True,LatinAmericaAndCaribbean
+Q41547,Q769,GRD,Grenada,0.779,True,LatinAmericaAndCaribbean
+Q769,Q769,GRD,Grenada,0.779,True,LatinAmericaAndCaribbean
+Q7627358,Q757,VCT,Saint Vincent and the Grenadines,0.738,True,LatinAmericaAndCaribbean
+Q1771579,Q781,ATG,Antigua and Barbuda,0.778,True,LatinAmericaAndCaribbean
+Q4119464,Q252,IDN,Indonesia,0.718,True,Asia
+Q3741,Q252,IDN,Indonesia,0.718,True,Asia
+Q650908,Q252,IDN,Indonesia,0.718,True,Asia
+Q3630,Q252,IDN,Indonesia,0.718,True,Asia
+Q252,Q252,IDN,Indonesia,0.718,True,Asia
+Q10399,Q252,IDN,Indonesia,0.718,True,Asia
+Q545479,Q148,CHN,People's Republic of China,0.761,False,Asia
+Q4970,Q148,CHN,People's Republic of China,0.761,False,Asia
+Q198244,Q148,CHN,People's Republic of China,0.761,False,Asia
+Q16967,Q148,CHN,People's Republic of China,0.761,False,Asia
+Q1360165,Q148,CHN,People's Republic of China,0.761,False,Asia
+Q15909714,Q148,CHN,People's Republic of China,0.761,False,Asia
+Q203675,Q37,LTU,Lithuania,0.882,,Europe
+Q36281,Q784,DMA,Dominica,0.742,True,LatinAmericaAndCaribbean
+Q173338,Q236,MNE,Montenegro,0.829,,Europe
+Q157034,Q221,MKD,North Macedonia,0.774,,Europe
+Q214173,Q419,PER,Peru,0.777,True,LatinAmericaAndCaribbean
+Q1563,Q241,CUB,Cuba,0.783,True,LatinAmericaAndCaribbean
+Q85,Q79,EGY,Egypt,0.707,True,Africa
+Q87,Q79,EGY,Egypt,0.707,True,Africa
+Q1296,Q31,BEL,Belgium,0.931,,Europe
+Q44840,Q191,EST,Estonia,0.892,,Europe
+Q367211,Q224,HRV,Croatia,0.851,,Europe
+Q6576,Q159,RUS,Russia,0.824,,Europe
+Q767820,Q794,IRN,Iran,0.783,False,Asia

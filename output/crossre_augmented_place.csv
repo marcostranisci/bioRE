@@ -1,0 +1,1455 @@
+person,FormerColony,label,relation
+Q6827914,1,Phil Simmons,equivalent-to
+Q6827914,1,Phil Simmons,member
+Q6827914,1,Phil Simmons,position-held
+Q3520174,1,Nasser Hussain,member
+Q3520174,1,Nasser Hussain,position-held
+Q6836032,0,Peter Such,member
+Q6836032,0,Peter Such,position-held
+Q6766945,0,Mark Butcher,member
+Q6766945,0,Mark Butcher,position-held
+Q3537597,0,Tom Moody,member
+Q3537597,0,Tom Moody,position-held
+Q3537597,0,Tom Moody,member
+Q3537597,0,Tom Moody,position-held
+Q5605307,0,Greg Blewett,position-held
+Q5605307,0,Greg Blewett,position-held
+Q5605307,0,Greg Blewett,position-held
+Q5605307,0,Greg Blewett,position-held
+Q6584108,0,Martin McCague,opposite
+Q6584108,0,Martin McCague,position-held
+Q483583,0,Alan Shearer,position-held
+Q483583,0,Alan Shearer,position-held
+Q483583,0,Alan Shearer,position-held
+Q299391,0,Tony Adams,position-held
+Q234576,0,Teddy Sheringham,position-held
+Q311709,0,Les Ferdinand,position-held
+Q174595,1,Jansher Khan,position-held
+Q174595,1,Jansher Khan,geographicalRelation
+Q174595,1,Jansher Khan,participated
+Q3610466,0,Dan Jenson,participated
+Q3610466,0,Dan Jenson,geographicalRelation
+Q336331,0,Rodney Eyles,geographicalRelation
+Q336331,0,Rodney Eyles,participated
+Q942937,0,Scott Draper,participated
+Q942937,0,Scott Draper,geographicalRelation
+Q3013095,0,Daniel Herbert,equivalent-to
+Q3013095,0,Daniel Herbert,position-held
+Q3013095,0,Daniel Herbert,position-held
+Q3013095,0,Daniel Herbert,equivalent-to
+Q3013095,0,Daniel Herbert,position-held
+Q3013095,0,Daniel Herbert,position-held
+Q3014401,0,Daniel Manu,position-held
+Q3017962,0,David Giffin,position-held
+Q349135,0,Ian Healy,opposite
+Q349135,0,Ian Healy,member
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,opposite
+Q349135,0,Ian Healy,member
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,opposite
+Q349135,0,Ian Healy,member
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,opposite
+Q349135,0,Ian Healy,member
+Q349135,0,Ian Healy,position-held
+Q349135,0,Ian Healy,position-held
+Q719333,0,Peter Nicol,geographicalRelation
+Q719333,0,Peter Nicol,participated
+Q259026,0,Sandrine Testud,geographicalRelation
+Q259026,0,Sandrine Testud,participated
+Q221737,0,Tim Henman,geographicalRelation
+Q221737,0,Tim Henman,participated
+Q463811,0,Doug Flach,participated
+Q463811,0,Doug Flach,geographicalRelation
+Q83859,0,John Milius,contributes
+Q2625337,0,George Hearn,position-held
+Q2517245,0,Verna Fields,position-held
+Q310949,0,Mark Philippoussis,geographicalRelation
+Q310949,0,Mark Philippoussis,participated
+Q559917,0,David Rikl,participated
+Q559917,0,David Rikl,geographicalRelation
+Q560175,1,Guy Forget,geographicalRelation
+Q560175,1,Guy Forget,participated
+Q11677,0,Lindsay Davenport,geographicalRelation
+Q11677,0,Lindsay Davenport,participated
+Q233339,1,Amanda Coetzer,geographicalRelation
+Q233339,1,Amanda Coetzer,participated
+Q1640440,0,Roberto Carretero,participated
+Q1640440,0,Roberto Carretero,geographicalRelation
+Q2885212,0,Manuel Toharia,geographicalRelation
+Q2885212,0,Manuel Toharia,position-held
+Q2885212,0,Manuel Toharia,position-held
+Q255657,0,Loyola de Palacio,equivalent-to
+Q255657,0,Loyola de Palacio,opposite
+Q255657,0,Loyola de Palacio,position-held
+Q3241386,0,Linda Wild,geographicalRelation
+Q3241386,0,Linda Wild,participated
+Q62208,0,Barbara Rittner,participated
+Q62208,0,Barbara Rittner,geographicalRelation
+Q105868,1,Gabriela Sabatini,participated
+Q105868,1,Gabriela Sabatini,geographicalRelation
+Q1146217,1,Fernando Lamas,position-held
+Q9446,0,Pete Sampras,geographicalRelation
+Q9446,0,Pete Sampras,participated
+Q1972672,0,Vernon Davis,position-held
+Q189554,0,Katherine Heigl,contributes
+Q189554,0,Katherine Heigl,position-held
+Q189554,0,Katherine Heigl,contributes
+Q189554,0,Katherine Heigl,position-held
+Q189554,0,Katherine Heigl,contributes
+Q189554,0,Katherine Heigl,position-held
+Q189554,0,Katherine Heigl,contributes
+Q189554,0,Katherine Heigl,position-held
+Q552674,0,Michael Tebbutt,participated
+Q552674,0,Michael Tebbutt,geographicalRelation
+Q308459,0,Rod Taylor,member
+Q308459,0,Rod Taylor,position-held
+Q229225,0,Claudia Black,position-held
+Q229225,0,Claudia Black,position-held
+Q229225,0,Claudia Black,contributes
+Q275502,0,Virginia Hey,position-held
+Q275502,0,Virginia Hey,position-held
+Q275502,0,Virginia Hey,contributes
+Q3358996,0,Owen Finegan,opposite
+Q3358996,0,Owen Finegan,position-held
+Q3358996,0,Owen Finegan,position-held
+Q3358996,0,Owen Finegan,opposite
+Q3358996,0,Owen Finegan,position-held
+Q3358996,0,Owen Finegan,position-held
+Q3528646,0,Tim Horan,position-held
+Q3368542,0,Pat Howard,position-held
+Q636885,0,Tim Gavin,position-held
+Q2846568,0,Andrew Blades,position-held
+Q3107260,0,Jason Gillespie,position-held
+Q10129,0,Lisa Raymond,geographicalRelation
+Q10129,0,Lisa Raymond,participated
+Q297948,0,Kimberly Po,participated
+Q297948,0,Kimberly Po,geographicalRelation
+Q313705,0,Jason Schwartzman,position-held
+Q1677212,0,Jack Splash,position-held
+Q1383657,0,Willard Huyck,position-held
+Q133631,0,Gloria Katz,position-held
+Q102642,0,Diane Keaton,participated
+Q102642,0,Diane Keaton,position-held
+Q102642,0,Diane Keaton,equivalent-to
+Q102642,0,Diane Keaton,participated
+Q102642,0,Diane Keaton,position-held
+Q102642,0,Diane Keaton,equivalent-to
+Q102642,0,Diane Keaton,participated
+Q102642,0,Diane Keaton,position-held
+Q102642,0,Diane Keaton,equivalent-to
+Q370417,0,Lawrence Turman,position-held
+Q42930,0,Dustin Hoffman,position-held
+Q229394,0,Elizabeth Mitchell,position-held
+Q229394,0,Elizabeth Mitchell,contributes
+Q1277018,0,Richard Boone,position-held
+Q34460,0,Gwyneth Paltrow,position-held
+Q277802,0,Thomas Johansson,participated
+Q277802,0,Thomas Johansson,geographicalRelation
+Q312717,0,Petr Korda,geographicalRelation
+Q312717,0,Petr Korda,participated
+Q718178,0,Bohdan Ulihrach,participated
+Q718178,0,Bohdan Ulihrach,geographicalRelation
+Q173633,0,Monica Seles,geographicalRelation
+Q173633,0,Monica Seles,participated
+Q264088,1,Dally Randriantefy,participated
+Q264088,1,Dally Randriantefy,geographicalRelation
+Q54536,0,Todd Martin,geographicalRelation
+Q54536,0,Todd Martin,participated
+Q54536,0,Todd Martin,participated
+Q54536,0,Todd Martin,position-held
+Q54536,0,Todd Martin,geographicalRelation
+Q54536,0,Todd Martin,participated
+Q54536,0,Todd Martin,participated
+Q54536,0,Todd Martin,position-held
+Q201593,0,Andrea Gaudenzi,participated
+Q201593,0,Andrea Gaudenzi,geographicalRelation
+Q189542,0,Stefan Edberg,geographicalRelation
+Q189542,0,Stefan Edberg,participated
+Q73280,0,Bernd Karbacher,participated
+Q73280,0,Bernd Karbacher,geographicalRelation
+Q7407,0,Andre Agassi,position-held
+Q7407,0,Andre Agassi,position-held
+Q54691,0,MaliVai Washington,position-held
+Q54691,0,MaliVai Washington,position-held
+Q54691,0,MaliVai Washington,position-held
+Q54691,0,MaliVai Washington,position-held
+Q957450,0,Jeff Tarango,participated
+Q957450,0,Jeff Tarango,position-held
+Q957450,0,Jeff Tarango,participated
+Q957450,0,Jeff Tarango,position-held
+Q957450,0,Jeff Tarango,participated
+Q957450,0,Jeff Tarango,position-held
+Q296282,1,Leander Paes,participated
+Q296282,1,Leander Paes,geographicalRelation
+Q142656,0,Randall Cunningham,position-held
+Q142656,0,Randall Cunningham,position-held
+Q142656,0,Randall Cunningham,position-held
+Q1688112,0,Jesper Parnevik,geographicalRelation
+Q10993,0,Tiger Woods,position-held
+Q10993,0,Tiger Woods,position-held
+Q7048193,0,Nolan Henke,position-held
+Q82925,0,Joseph Conrad,contributes
+Q82925,0,Joseph Conrad,contributes
+Q82925,0,Joseph Conrad,contributes
+Q82925,0,Joseph Conrad,contributes
+Q211731,0,Timothy Leary,position-held
+Q211731,0,Timothy Leary,position-held
+Q392,0,Bob Dylan,position-held
+Q392,0,Bob Dylan,position-held
+Q392,0,Bob Dylan,position-held
+Q392,0,Bob Dylan,position-held
+Q392,0,Bob Dylan,position-held
+Q392,0,Bob Dylan,position-held
+Q28028,1,Alfonso Cuarón,contributes
+Q28028,1,Alfonso Cuarón,contributes
+Q28028,1,Alfonso Cuarón,contributes
+Q28028,1,Alfonso Cuarón,contributes
+Q28028,1,Alfonso Cuarón,contributes
+Q171091,0,Philip K. Dick,contributes
+Q171091,0,Philip K. Dick,contributes
+Q171091,0,Philip K. Dick,contributes
+Q212879,0,Kim Novak,position-held
+Q347481,0,Walter Dyett,relationship
+Q299225,0,Evan Lysacek,usage
+Q299225,0,Evan Lysacek,participated
+Q1990672,0,L. Scott Caldwell,contributes
+Q1990672,0,L. Scott Caldwell,position-held
+Q230465,0,Kiele Sanchez,position-held
+Q230465,0,Kiele Sanchez,contributes
+Q83338,0,Robin Williams,position-held
+Q8704,0,Walt Disney,position-held
+Q6197,0,Horace,member
+Q6197,0,Horace,member
+Q6197,0,Horace,member
+Q6197,0,Horace,member
+Q6197,0,Horace,member
+Q6197,0,Horace,member
+Q822610,0,Bernard Miles,position-held
+Q937,0,Albert Einstein,geographicalRelation
+Q937,0,Albert Einstein,geographicalRelation
+Q937,0,Albert Einstein,geographicalRelation
+Q937,0,Albert Einstein,geographicalRelation
+Q937,0,Albert Einstein,geographicalRelation
+Q937,0,Albert Einstein,geographicalRelation
+Q937,0,Albert Einstein,geographicalRelation
+Q882,0,Charlie Chaplin,relationship
+Q882,0,Charlie Chaplin,member
+Q882,0,Charlie Chaplin,member
+Q882,0,Charlie Chaplin,relationship
+Q882,0,Charlie Chaplin,member
+Q882,0,Charlie Chaplin,member
+Q313216,1,Uzziah,participated
+Q313216,1,Uzziah,position-held
+Q701793,1,Itamar Rabinovich,position-held
+Q701793,1,Itamar Rabinovich,position-held
+Q701793,1,Itamar Rabinovich,position-held
+Q43247,0,Ingrid Bergman,contributes
+Q43247,0,Ingrid Bergman,position-held
+Q43247,0,Ingrid Bergman,contributes
+Q43247,0,Ingrid Bergman,position-held
+Q232937,0,Sandrine Bonnaire,position-held
+Q123206,0,Bruno Ganz,position-held
+Q182870,0,Mario Puzo,participated
+Q182870,0,Mario Puzo,participated
+Q182870,0,Mario Puzo,participated
+Q182870,0,Mario Puzo,participated
+Q182870,0,Mario Puzo,participated
+Q182870,0,Mario Puzo,participated
+Q160528,0,Burt Lancaster,position-held
+Q80596,0,Arthur Miller,position-held
+Q80596,0,Arthur Miller,position-held
+Q80596,0,Arthur Miller,position-held
+Q44200,0,Billy the Kid,geographicalRelation
+Q999332,0,Buck Henry,position-held
+Q4409586,0,Nina Axelrod,position-held
+Q297618,0,Adam Savage,member
+Q297618,0,Adam Savage,position-held
+Q7407730,0,Sam Katzman,position-held
+Q934087,0,William Castle,position-held
+Q946859,0,Keenan Wynn,position-held
+Q941961,0,Derek Shepherd,relationship
+Q941961,0,Derek Shepherd,contributes
+Q941961,0,Derek Shepherd,position-held
+Q941961,0,Derek Shepherd,relationship
+Q941961,0,Derek Shepherd,contributes
+Q941961,0,Derek Shepherd,position-held
+Q56014,0,George Cukor,position-held
+Q193635,0,Alan Greenspan,position-held
+Q193635,0,Alan Greenspan,position-held
+Q288359,0,Lena Dunham,contributes
+Q288359,0,Lena Dunham,position-held
+Q188137,0,J. J. Abrams,contributes
+Q188137,0,J. J. Abrams,equivalent-to
+Q188137,0,J. J. Abrams,contributes
+Q188137,0,J. J. Abrams,equivalent-to
+Q293323,0,Lynn Ahrens,participated
+Q5257661,0,Denise Faye,position-held
+Q5257661,0,Denise Faye,contributes
+Q42745,0,Rita Hayworth,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q9696,0,John F. Kennedy,participated
+Q9696,0,John F. Kennedy,geographicalRelation
+Q9696,0,John F. Kennedy,position-held
+Q517908,0,Hans Kmoch,opposite
+Q517908,0,Hans Kmoch,position-held
+Q1403472,0,Felix Frankfurter,contributes
+Q1403472,0,Felix Frankfurter,position-held
+Q1398,0,Virgil,member
+Q1398,0,Virgil,member
+Q1398,0,Virgil,member
+Q1398,0,Virgil,member
+Q1398,0,Virgil,member
+Q39837,0,Averroes,member
+Q6691,0,Homer,member
+Q6691,0,Homer,member
+Q6691,0,Homer,relationship
+Q6691,0,Homer,relationship
+Q6691,0,Homer,relationship
+Q859,0,Plato,member
+Q8581,1,Saladin,member
+Q342419,0,Toby Jones,position-held
+Q342419,0,Toby Jones,contributes
+Q342419,0,Toby Jones,position-held
+Q342419,0,Toby Jones,contributes
+Q342419,0,Toby Jones,position-held
+Q342419,0,Toby Jones,contributes
+Q342419,0,Toby Jones,position-held
+Q342419,0,Toby Jones,contributes
+Q1272489,0,Ralph Ineson,position-held
+Q1272489,0,Ralph Ineson,contributes
+Q1272489,0,Ralph Ineson,position-held
+Q1272489,0,Ralph Ineson,contributes
+Q1272489,0,Ralph Ineson,position-held
+Q1272489,0,Ralph Ineson,contributes
+Q1272489,0,Ralph Ineson,position-held
+Q1272489,0,Ralph Ineson,contributes
+Q13888,0,Luchino Visconti,position-held
+Q106529,0,Alain Delon,position-held
+Q107006,1,Claudia Cardinale,position-held
+Q57231,0,Tom Tykwer,position-held
+Q174943,0,Belisarius,topic
+Q174943,0,Belisarius,geographicalRelation
+Q170386,0,Pope Innocent II,position-held
+Q170386,0,Pope Innocent II,position-held
+Q170386,0,Pope Innocent II,position-held
+Q170386,0,Pope Innocent II,position-held
+Q170386,0,Pope Innocent II,position-held
+Q170386,0,Pope Innocent II,position-held
+Q170386,0,Pope Innocent II,opposite
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,opposite
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,opposite
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,opposite
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,participated
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,opposite
+Q1405,0,Augustus,geographicalRelation
+Q1405,0,Augustus,position-held
+Q1405,0,Augustus,position-held
+Q28975,0,Christopher Marlowe,position-held
+Q41871,0,Paul Newman,position-held
+Q5235902,0,David Kelley,contributes
+Q5235902,0,David Kelley,position-held
+Q5235902,0,David Kelley,opposite
+Q5235902,0,David Kelley,contributes
+Q5235902,0,David Kelley,position-held
+Q5235902,0,David Kelley,opposite
+Q230023,0,Leslie Caron,position-held
+Q364083,0,Louis Jourdan,position-held
+Q106001,0,Maurice Chevalier,position-held
+Q484779,0,Luc Besson,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q207,0,George W. Bush,position-held
+Q207,0,George W. Bush,contributes
+Q16005909,0,Helen C. White,position-held
+Q1111386,0,Robert Moses,topic
+Q1111386,0,Robert Moses,equivalent-to
+Q1111386,0,Robert Moses,topic
+Q1111386,0,Robert Moses,equivalent-to
+Q4730637,0,Allan Gotthelf,contributes
+Q4730637,0,Allan Gotthelf,position-held
+Q1474823,0,Van Nest Polglase,position-held
+Q1255794,0,George Amy,position-held
+Q5480583,0,Joseph Papp,contributes
+Q318267,0,Eric Stoltz,position-held
+Q773523,0,Terence Davies,position-held
+Q234539,0,Elisabeth Sladen,contributes
+Q234539,0,Elisabeth Sladen,position-held
+Q234539,0,Elisabeth Sladen,contributes
+Q234539,0,Elisabeth Sladen,position-held
+Q234539,0,Elisabeth Sladen,contributes
+Q234539,0,Elisabeth Sladen,position-held
+Q234539,0,Elisabeth Sladen,contributes
+Q234539,0,Elisabeth Sladen,position-held
+Q3528697,0,Tim Stimpson,position-held
+Q3528697,0,Tim Stimpson,member
+Q3528697,0,Tim Stimpson,position-held
+Q3528697,0,Tim Stimpson,geographicalRelation
+Q3528697,0,Tim Stimpson,position-held
+Q3528697,0,Tim Stimpson,member
+Q3528697,0,Tim Stimpson,position-held
+Q3528697,0,Tim Stimpson,geographicalRelation
+Q7639958,0,Sunetra Sarker,position-held
+Q7639958,0,Sunetra Sarker,position-held
+Q6266817,0,Johnny Gruelle,contributes
+Q6266817,0,Johnny Gruelle,contributes
+Q352,0,Adolf Hitler,member
+Q352,0,Adolf Hitler,geographicalRelation
+Q352,0,Adolf Hitler,geographicalRelation
+Q352,0,Adolf Hitler,member
+Q352,0,Adolf Hitler,geographicalRelation
+Q352,0,Adolf Hitler,geographicalRelation
+Q652715,1,James Wilby,position-held
+Q652715,1,James Wilby,contributes
+Q312702,0,Jonathan Pryce,position-held
+Q312702,0,Jonathan Pryce,member
+Q172183,0,Chaim Weizmann,position-held
+Q311311,1,Sergei Parajanov,member
+Q55198,0,Alexander Dovzhenko,member
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q1124,0,Bill Clinton,position-held
+Q74032,0,Earl Scruggs,position-held
+Q74032,0,Earl Scruggs,position-held
+Q74032,0,Earl Scruggs,position-held
+Q170512,1,Apuleius,geographicalRelation
+Q170512,1,Apuleius,equivalent-to
+Q170512,1,Apuleius,equivalent-to
+Q170512,1,Apuleius,geographicalRelation
+Q170512,1,Apuleius,equivalent-to
+Q170512,1,Apuleius,equivalent-to
+Q223687,0,Wes Anderson,contributes
+Q36153,0,Beyoncé,position-held
+Q36153,0,Beyoncé,position-held
+Q36153,0,Beyoncé,position-held
+Q241701,0,Ann Miller,position-held
+Q257271,0,Loretta Devine,contributes
+Q257271,0,Loretta Devine,position-held
+Q40090,0,Chandra Wilson,contributes
+Q40090,0,Chandra Wilson,relationship
+Q40090,0,Chandra Wilson,position-held
+Q316647,0,Randy Quaid,position-held
+Q231228,0,Solange Knowles,position-held
+Q104514,0,Adrien Brody,position-held
+Q352109,0,Robert Knox,equivalent-to
+Q352109,0,Robert Knox,position-held
+Q352109,0,Robert Knox,contributes
+Q9545,0,Tony Blair,equivalent-to
+Q9545,0,Tony Blair,equivalent-to
+Q975488,0,Donald Cammell,contributes
+Q975488,0,Donald Cammell,contributes
+Q3454159,1,Rajasinha II of Kandy,position-held
+Q3454159,1,Rajasinha II of Kandy,geographicalRelation
+Q3454159,1,Rajasinha II of Kandy,position-held
+Q500046,0,Albert Gallatin,position-held
+Q318734,0,Claude Rains,contributes
+Q318734,0,Claude Rains,position-held
+Q61193,1,Bal Thackeray,position-held
+Q61193,1,Bal Thackeray,position-held
+Q61193,1,Bal Thackeray,geographicalRelation
+Q6123506,1,Jayachandra,relationship
+Q228928,0,Eva Marie Saint,position-held
+Q294927,0,Jerry Lewis,position-held
+Q18563278,0,Grete Trakl,relationship
+Q51541,0,Nicolas Roeg,contributes
+Q51541,0,Nicolas Roeg,contributes
+Q301816,0,Ned Kelly,position-held
+Q301816,0,Ned Kelly,equivalent-to
+Q301816,0,Ned Kelly,contributes
+Q23,0,George Washington,position-held
+Q23,0,George Washington,position-held
+Q220845,0,Margaret of Valois,position-held
+Q207140,1,Sennacherib,equivalent-to
+Q207140,1,Sennacherib,geographicalRelation
+Q723780,0,Brion James,equivalent-to
+Q723780,0,Brion James,contributes
+Q236702,0,Joanna Cassidy,equivalent-to
+Q236702,0,Joanna Cassidy,contributes
+Q486559,1,Lee Sedol,participated
+Q486559,1,Lee Sedol,participated
+Q137727,0,Sakichi Toyoda,contributes
+Q264596,0,Mamie Van Doren,position-held
+Q7196241,0,Pinky Lee,position-held
+Q230736,0,Sean Young,position-held
+Q230736,0,Sean Young,equivalent-to
+Q230736,0,Sean Young,contributes
+Q230736,0,Sean Young,position-held
+Q230736,0,Sean Young,equivalent-to
+Q230736,0,Sean Young,contributes
+Q318231,0,William Mapother,contributes
+Q318231,0,William Mapother,position-held
+Q36107,0,Muhammad Ali,relationship
+Q1372703,0,Hampton Fancher,equivalent-to
+Q1372703,0,Hampton Fancher,contributes
+Q1372703,0,Hampton Fancher,equivalent-to
+Q1372703,0,Hampton Fancher,contributes
+Q10731,0,Mick Foley,position-held
+Q187085,0,Paul J. McAuley,contributes
+Q684748,0,Lester del Rey,contributes
+Q447879,0,Arlene Dahl,position-held
+Q524386,0,Earl Bellamy,contributes
+Q294185,0,David Arquette,position-held
+Q129831,0,Elizabeth Berkley,position-held
+Q18938,0,Thomas Jane,position-held
+Q314926,0,John Waters,position-held
+Q716552,0,Norman McLaren,position-held
+Q716552,0,Norman McLaren,position-held
+Q716552,0,Norman McLaren,position-held
+Q126941,0,J. Michael Straczynski,contributes
+Q462955,0,Susan Misner,position-held
+Q462955,0,Susan Misner,contributes
+Q3573163,0,Yukimasa Kishino,contributes
+Q3573163,0,Yukimasa Kishino,position-held
+Q418649,0,Akio Ōtsuka,contributes
+Q418649,0,Akio Ōtsuka,position-held
+Q1187760,0,Jūrōta Kosugi,contributes
+Q1187760,0,Jūrōta Kosugi,position-held
+Q49547,0,Fumiko Orikasa,contributes
+Q49547,0,Fumiko Orikasa,position-held
+Q1142856,0,Fumihiko Tachiki,contributes
+Q1142856,0,Fumihiko Tachiki,position-held
+Q1625322,0,Masaaki Tsukada,contributes
+Q1625322,0,Masaaki Tsukada,position-held
+Q1383899,0,John Chisum,geographicalRelation
+Q6374029,0,Lawrence Murphy,geographicalRelation
+Q6374029,0,Lawrence Murphy,opposite
+Q6374029,0,Lawrence Murphy,opposite
+Q6374029,0,Lawrence Murphy,geographicalRelation
+Q6374029,0,Lawrence Murphy,opposite
+Q6374029,0,Lawrence Murphy,opposite
+Q80492,0,Gavrilo Princip,position-held
+Q80492,0,Gavrilo Princip,position-held
+Q80492,0,Gavrilo Princip,geographicalRelation
+Q80492,0,Gavrilo Princip,position-held
+Q80492,0,Gavrilo Princip,position-held
+Q80492,0,Gavrilo Princip,geographicalRelation
+Q964414,0,Trifko Grabež,position-held
+Q964414,0,Trifko Grabež,position-held
+Q964414,0,Trifko Grabež,geographicalRelation
+Q964414,0,Trifko Grabež,position-held
+Q964414,0,Trifko Grabež,position-held
+Q964414,0,Trifko Grabež,geographicalRelation
+Q254876,0,Eve Myles,contributes
+Q254876,0,Eve Myles,position-held
+Q254876,0,Eve Myles,equivalent-to
+Q254876,0,Eve Myles,contributes
+Q254876,0,Eve Myles,position-held
+Q254876,0,Eve Myles,equivalent-to
+Q934461,0,Gareth David-Lloyd,contributes
+Q934461,0,Gareth David-Lloyd,position-held
+Q3129345,0,Tommy Knight,contributes
+Q3129345,0,Tommy Knight,position-held
+Q2833080,0,Alexander Armstrong,contributes
+Q2833080,0,Alexander Armstrong,position-held
+Q2833080,0,Alexander Armstrong,equivalent-to
+Q2833080,0,Alexander Armstrong,contributes
+Q2833080,0,Alexander Armstrong,position-held
+Q2833080,0,Alexander Armstrong,equivalent-to
+Q2701959,0,Lamont Dozier,position-held
+Q56094,0,Francis Ford Coppola,position-held
+Q56094,0,Francis Ford Coppola,position-held
+Q56094,0,Francis Ford Coppola,position-held
+Q56094,0,Francis Ford Coppola,position-held
+Q1618,0,Charles Lindbergh,position-held
+Q1618,0,Charles Lindbergh,position-held
+Q1618,0,Charles Lindbergh,position-held
+Q550653,0,Max Wright,member
+Q550653,0,Max Wright,position-held
+Q550653,0,Max Wright,contributes
+Q14313,0,Pharrell Williams,position-held
+Q232876,0,Diana Rigg,contributes
+Q232876,0,Diana Rigg,position-held
+Q63586,0,Ilse Steppat,contributes
+Q63586,0,Ilse Steppat,position-held
+Q124446,0,Michele Besso,relationship
+Q1636973,0,Stephen Samuel Wise,relationship
+Q6050046,0,Oliver Coleman,relationship
+Q2824489,0,Adjoa Andoh,position-held
+Q2824489,0,Adjoa Andoh,contributes
+Q544165,0,Penelope Wilton,position-held
+Q544165,0,Penelope Wilton,contributes
+Q206856,0,Angela Lansbury,position-held
+Q62016,0,Otto Heckmann,position-held
+Q62016,0,Otto Heckmann,position-held
+Q214601,0,David Tennant,contributes
+Q214601,0,David Tennant,position-held
+Q214601,0,David Tennant,contributes
+Q214601,0,David Tennant,position-held
+Q214601,0,David Tennant,contributes
+Q214601,0,David Tennant,position-held
+Q214601,0,David Tennant,contributes
+Q214601,0,David Tennant,position-held
+Q254766,0,Catherine Tate,contributes
+Q254766,0,Catherine Tate,position-held
+Q254766,0,Catherine Tate,contributes
+Q254766,0,Catherine Tate,position-held
+Q254766,0,Catherine Tate,contributes
+Q254766,0,Catherine Tate,position-held
+Q254766,0,Catherine Tate,contributes
+Q254766,0,Catherine Tate,position-held
+Q24632,0,John Barrowman,contributes
+Q24632,0,John Barrowman,position-held
+Q151113,0,Billie Piper,contributes
+Q151113,0,Billie Piper,position-held
+Q151113,0,Billie Piper,contributes
+Q151113,0,Billie Piper,position-held
+Q151113,0,Billie Piper,contributes
+Q151113,0,Billie Piper,position-held
+Q151113,0,Billie Piper,contributes
+Q151113,0,Billie Piper,position-held
+Q380856,1,Richard E. Grant,contributes
+Q380856,1,Richard E. Grant,position-held
+Q185079,0,Jim Broadbent,position-held
+Q185079,0,Jim Broadbent,contributes
+Q185079,0,Jim Broadbent,position-held
+Q185079,0,Jim Broadbent,position-held
+Q185079,0,Jim Broadbent,contributes
+Q185079,0,Jim Broadbent,position-held
+Q163286,0,Hugh Grant,contributes
+Q163286,0,Hugh Grant,position-held
+Q254886,1,Joanna Lumley,contributes
+Q254886,1,Joanna Lumley,position-held
+Q134262,0,Tennessee Williams,position-held
+Q90697,0,Georg Joos,position-held
+Q90697,0,Georg Joos,position-held
+Q90697,0,Georg Joos,position-held
+Q90697,0,Georg Joos,position-held
+Q107545,0,Otto Scherzer,position-held
+Q267335,1,Shulamit Aloni,position-held
+Q706526,1,David Avidan,equivalent-to
+Q43723,1,Benjamin Netanyahu,equivalent-to
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,equivalent-to
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,equivalent-to
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,equivalent-to
+Q43723,1,Benjamin Netanyahu,opposite
+Q43723,1,Benjamin Netanyahu,opposite
+Q2571747,0,Yann Fouéré,position-held
+Q2571747,0,Yann Fouéré,is-a
+Q2830523,0,Alan Heusaff,position-held
+Q2830523,0,Alan Heusaff,is-a
+Q1727806,0,Peter Berresford Ellis,position-held
+Q1168182,0,Neil Back,position-held
+Q1168182,0,Neil Back,geographicalRelation
+Q3016509,0,Darren Garforth,position-held
+Q3016509,0,Darren Garforth,geographicalRelation
+Q183178,0,Clive Owen,position-held
+Q9588,0,Richard Nixon,geographicalRelation
+Q9588,0,Richard Nixon,geographicalRelation
+Q9588,0,Richard Nixon,geographicalRelation
+Q9588,0,Richard Nixon,geographicalRelation
+Q9588,0,Richard Nixon,geographicalRelation
+Q9588,0,Richard Nixon,geographicalRelation
+Q9588,0,Richard Nixon,geographicalRelation
+Q3380712,0,Allan Nevins,contributes
+Q714909,0,Pete Wilson,position-held
+Q714909,0,Pete Wilson,position-held
+Q458833,0,Carroll Clark,position-held
+Q927824,0,Hermes Pan,position-held
+Q927824,0,Hermes Pan,contributes
+Q927824,0,Hermes Pan,contributes
+Q108366,0,Gregory Peck,position-held
+Q17385586,0,Antonia Apodaca,member
+Q42775,0,Johnny Cash,contributes
+Q42775,0,Johnny Cash,contributes
+Q42775,0,Johnny Cash,participated
+Q42775,0,Johnny Cash,contributes
+Q42775,0,Johnny Cash,contributes
+Q42775,0,Johnny Cash,participated
+Q94041,0,James Cagney,participated
+Q892444,0,Scott Weinger,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,contributes
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,position-held
+Q2062642,0,Barney Bubbles,contributes
+Q38222,0,George Lucas,position-held
+Q38222,0,George Lucas,position-held
+Q40067,0,Candy Clark,position-held
+Q2831,0,Michael Jackson,position-held
+Q2831,0,Michael Jackson,member
+Q2831,0,Michael Jackson,position-held
+Q2831,0,Michael Jackson,member
+Q2831,0,Michael Jackson,position-held
+Q2831,0,Michael Jackson,member
+Q2831,0,Michael Jackson,position-held
+Q2831,0,Michael Jackson,member
+Q409,1,Bob Marley,relationship
+Q36949,0,Robert De Niro,position-held
+Q36949,0,Robert De Niro,position-held
+Q36949,0,Robert De Niro,position-held
+Q547486,0,Nick Grimshaw,geographicalRelation
+Q313704,0,Paolo Nutini,geographicalRelation
+Q267577,0,Constanța Burcică,participated
+Q267577,0,Constanța Burcică,participated
+Q128799,0,Ricky Martin,member
+Q128799,0,Ricky Martin,position-held
+Q128799,0,Ricky Martin,member
+Q128799,0,Ricky Martin,position-held
+Q43432,0,Justin Timberlake,member
+Q43432,0,Justin Timberlake,position-held
+Q43432,0,Justin Timberlake,member
+Q43432,0,Justin Timberlake,position-held
+Q56008,0,Tim Burton,geographicalRelation
+Q56008,0,Tim Burton,participated
+Q56008,0,Tim Burton,contributes
+Q56008,0,Tim Burton,contributes
+Q296774,0,Mark Harmon,member
+Q296774,0,Mark Harmon,position-held
+Q296774,0,Mark Harmon,contributes
+Q162621,0,Walter Huston,position-held
+Q104109,0,Mary Pickford,member
+Q104109,0,Mary Pickford,position-held
+Q25089,0,Woody Allen,participated
+Q183532,0,Anne Bancroft,position-held
+Q4935658,0,Bobby Van,position-held
+Q16116980,0,Lucian K. Truscott IV,position-held
+Q40069,1,Sara Ramirez,contributes
+Q40069,1,Sara Ramirez,position-held
+Q5928,0,Jimi Hendrix,equivalent-to
+Q5928,0,Jimi Hendrix,equivalent-to
+Q5928,0,Jimi Hendrix,equivalent-to
+Q5928,0,Jimi Hendrix,equivalent-to
+Q342665,0,Jeffrey Dean Morgan,contributes
+Q342665,0,Jeffrey Dean Morgan,position-held
+Q342665,0,Jeffrey Dean Morgan,contributes
+Q342665,0,Jeffrey Dean Morgan,position-held
+Q342665,0,Jeffrey Dean Morgan,contributes
+Q342665,0,Jeffrey Dean Morgan,position-held
+Q342665,0,Jeffrey Dean Morgan,contributes
+Q342665,0,Jeffrey Dean Morgan,position-held
+Q3644511,0,Brian Stokes Mitchell,position-held
+Q3644511,0,Brian Stokes Mitchell,contributes
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q367691,0,Simon Fuller,position-held
+Q232837,0,Katharine Ross,position-held
+Q309640,0,Beau Bridges,participated
+Q309640,0,Beau Bridges,position-held
+Q309640,0,Beau Bridges,position-held
+Q309640,0,Beau Bridges,position-held
+Q309640,0,Beau Bridges,contributes
+Q459230,0,Calder Willingham,position-held
+Q1514,0,Janis Joplin,member
+Q1514,0,Janis Joplin,member
+Q36844,1,Rihanna,position-held
+Q36844,1,Rihanna,position-held
+Q5092714,0,Cheryl Cohen-Greene,position-held
+Q5092714,0,Cheryl Cohen-Greene,contributes
+Q5092714,0,Cheryl Cohen-Greene,member
+Q215120,0,Cole Porter,position-held
+Q215120,0,Cole Porter,position-held
+Q215120,0,Cole Porter,position-held
+Q328718,0,Mark Elder,position-held
+Q306,1,Sebastián Piñera,participated
+Q145823,0,Milt Gabler,relationship
+Q145823,0,Milt Gabler,position-held
+Q145823,0,Milt Gabler,position-held
+Q5679524,1,Hassan Abbas,opposite
+Q5679524,1,Hassan Abbas,position-held
+Q5679524,1,Hassan Abbas,opposite
+Q5679524,1,Hassan Abbas,position-held
+Q5679524,1,Hassan Abbas,opposite
+Q5679524,1,Hassan Abbas,position-held
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,opposite
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,opposite
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,opposite
+Q6957562,1,Nader Jokhadar,position-held
+Q6957562,1,Nader Jokhadar,position-held
+Q7404049,1,Salem Bitar,opposite
+Q7404049,1,Salem Bitar,position-held
+Q7404049,1,Salem Bitar,opposite
+Q7404049,1,Salem Bitar,position-held
+Q45189358,1,Ammar Awad,opposite
+Q45189358,1,Ammar Awad,position-held
+Q45189358,1,Ammar Awad,opposite
+Q45189358,1,Ammar Awad,position-held
+Q4665502,1,Abdul Latif Helou,position-held
+Q1188632,0,Shu Kamo,position-held
+Q1421525,0,Marcello Cuttitta,position-held
+Q3497946,0,Stefano Bordon,position-held
+Q1365312,0,Takuya Takagi,opposite
+Q1365312,0,Takuya Takagi,position-held
+Q1365312,0,Takuya Takagi,position-held
+Q1365312,0,Takuya Takagi,opposite
+Q1365312,0,Takuya Takagi,position-held
+Q1365312,0,Takuya Takagi,position-held
+Q2308310,0,Kenichi Shimokawa,opposite
+Q2308310,0,Kenichi Shimokawa,opposite
+Q2308310,0,Kenichi Shimokawa,position-held
+Q2308310,0,Kenichi Shimokawa,opposite
+Q2308310,0,Kenichi Shimokawa,opposite
+Q2308310,0,Kenichi Shimokawa,position-held
+Q331953,0,Kazuyoshi Miura,opposite
+Q331953,0,Kazuyoshi Miura,position-held
+Q957989,0,Naoki Soma,position-held
+Q957989,0,Naoki Soma,position-held
+Q2427349,0,Norio Omura,position-held
+Q583806,0,Motohiro Yamaguchi,position-held
+Q2213316,0,Yasuto Honda,position-held
+Q7685767,1,Tarek Jabban,position-held
+Q3167097,0,Jean-Luc Brassard,geographicalRelation
+Q1337736,0,Jim Moran,geographicalRelation
+Q1364838,0,Fredric Lehne,member
+Q1364838,0,Fredric Lehne,position-held
+Q1364838,0,Fredric Lehne,contributes
+Q7846762,0,Troy Benson,geographicalRelation
+Q88242,0,Tatjana Mittermayer,geographicalRelation
+Q2936255,1,Candice Gilg,geographicalRelation
+Q11781543,0,Minna Karhu,geographicalRelation
+Q1186577,0,Tae Satoya,geographicalRelation
+Q4413243,0,Donna Weinbrecht,geographicalRelation
+Q353520,0,Lee Bowyer,position-held
+Q353520,0,Lee Bowyer,member
+Q353520,0,Lee Bowyer,geographicalRelation
+Q353520,0,Lee Bowyer,position-held
+Q353520,0,Lee Bowyer,member
+Q353520,0,Lee Bowyer,geographicalRelation
+Q1173922,0,David Campese,position-held
+Q1173922,0,David Campese,member
+Q1173922,0,David Campese,position-held
+Q1173922,0,David Campese,position-held
+Q1173922,0,David Campese,member
+Q1173922,0,David Campese,position-held
+Q1403952,0,Rob Andrew,opposite
+Q1403952,0,Rob Andrew,position-held
+Q1403952,0,Rob Andrew,opposite
+Q1403952,0,Rob Andrew,position-held
+Q1403952,0,Rob Andrew,geographicalRelation
+Q1403952,0,Rob Andrew,opposite
+Q1403952,0,Rob Andrew,position-held
+Q1403952,0,Rob Andrew,opposite
+Q1403952,0,Rob Andrew,position-held
+Q1403952,0,Rob Andrew,geographicalRelation
+Q3531920,1,Tony Underwood,position-held
+Q3531920,1,Tony Underwood,member
+Q3531920,1,Tony Underwood,position-held
+Q3531920,1,Tony Underwood,geographicalRelation
+Q3531920,1,Tony Underwood,position-held
+Q3531920,1,Tony Underwood,member
+Q3531920,1,Tony Underwood,position-held
+Q3531920,1,Tony Underwood,geographicalRelation
+Q214289,1,Michelle Yeoh,contributes
+Q214289,1,Michelle Yeoh,position-held
+Q7051494,0,Norm Hewitt,position-held
+Q7051494,0,Norm Hewitt,position-held
+Q7051494,0,Norm Hewitt,position-held
+Q7051494,0,Norm Hewitt,geographicalRelation
+Q7051494,0,Norm Hewitt,position-held
+Q7051494,0,Norm Hewitt,position-held
+Q7051494,0,Norm Hewitt,position-held
+Q7051494,0,Norm Hewitt,geographicalRelation
+Q2837676,0,Allan Bateman,position-held
+Q2837676,0,Allan Bateman,geographicalRelation
+Q3116311,0,Gregor Townsend,position-held
+Q3116311,0,Gregor Townsend,geographicalRelation
+Q981948,0,Rob Howley,position-held
+Q981948,0,Rob Howley,geographicalRelation
+Q1720081,0,Scott Quinnell,position-held
+Q1720081,0,Scott Quinnell,geographicalRelation
+Q3002051,0,Craig Quinnell,position-held
+Q3002051,0,Craig Quinnell,geographicalRelation
+Q361536,0,Owen Teale,position-held
+Q47664,0,Catherine Zeta-Jones,position-held
+Q47664,0,Catherine Zeta-Jones,contributes
+Q5210548,0,Dale McIntosh,position-held
+Q5210548,0,Dale McIntosh,geographicalRelation
+Q3308056,0,Michael Brial,position-held
+Q2337839,1,Des Terblanche,position-held
+Q2337839,1,Des Terblanche,member
+Q1349193,1,Mark McNulty,position-held
+Q1349193,1,Mark McNulty,geographicalRelation
+Q2470314,1,Steve van Vuuren,position-held
+Q2470314,1,Steve van Vuuren,member
+Q612279,1,Nick Price,position-held
+Q612279,1,Nick Price,geographicalRelation
+Q7430937,1,Schalk van der Merwe,geographicalRelation
+Q2752141,1,Adilson da Silva,geographicalRelation
+Q2188375,1,Trevor Dodds,geographicalRelation
+Q3560510,0,Viorel Ion,position-held
+Q3560510,0,Viorel Ion,position-held
+Q926512,0,Liviu Ciobotariu,position-held
+Q926512,0,Liviu Ciobotariu,position-held
+Q359484,0,Adrian Ilie,position-held
+Q359484,0,Adrian Ilie,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q202877,1,Brian Lara,position-held
+Q555240,0,Shane Warne,position-held
+Q555240,0,Shane Warne,position-held
+Q555240,0,Shane Warne,position-held
+Q555240,0,Shane Warne,position-held
+Q1101987,1,Clive Lloyd,position-held
+Q1101987,1,Clive Lloyd,position-held
+Q5040337,1,Carl Hooper,position-held
+Q2743480,0,Geoff Marsh,member
+Q2743480,0,Geoff Marsh,opposite
+Q2743480,0,Geoff Marsh,member
+Q2743480,0,Geoff Marsh,member
+Q2743480,0,Geoff Marsh,opposite
+Q2743480,0,Geoff Marsh,member
+Q967484,1,Shivnarine Chanderpaul,position-held
+Q967484,1,Shivnarine Chanderpaul,position-held
+Q967484,1,Shivnarine Chanderpaul,position-held
+Q967484,1,Shivnarine Chanderpaul,position-held
+Q3017555,0,David Boon,position-held
+Q472649,0,Ricky Ponting,position-held
+Q7491013,0,Shaun Young,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q983740,1,Courtney Walsh,position-held
+Q7349553,1,Robert Samuels,position-held
+Q3177366,0,Mark Waugh,position-held
+Q3107289,0,Michael Bevan,position-held
+Q26992,0,Stuart Law,position-held
+Q7153163,0,Paul Reiffel,position-held
+Q1392178,0,Glenn McGrath,position-held
+Q7495466,1,Sherwin Campbell,position-held
+Q3763931,1,Jimmy Adams,position-held
+Q6313384,1,Junior Murray,position-held
+Q16214515,1,Nixon McLean,position-held
+Q3007862,1,Curtly Ambrose,position-held
+Q7360273,1,Roland Holder,position-held
+Q2024205,1,Ong Ewe Hock,participated
+Q2024205,1,Ong Ewe Hock,geographicalRelation
+Q958235,1,Rashid Sidek,participated
+Q958235,1,Rashid Sidek,geographicalRelation
+Q979967,1,Hermawan Susanto,geographicalRelation
+Q979967,1,Hermawan Susanto,participated
+Q1001420,1,Budi Santoso,geographicalRelation
+Q1001420,1,Budi Santoso,participated
+Q463102,1,Fung Permadi,geographicalRelation
+Q463102,1,Fung Permadi,opposite
+Q272479,0,Gong Zhichao,geographicalRelation
+Q272479,0,Gong Zhichao,participated
+Q265153,1,Mia Audina,participated
+Q265153,1,Mia Audina,geographicalRelation
+Q275158,0,Ye Zhaoying,geographicalRelation
+Q275158,0,Ye Zhaoying,participated
+Q275158,0,Ye Zhaoying,geographicalRelation
+Q275158,0,Ye Zhaoying,opposite
+Q275158,0,Ye Zhaoying,geographicalRelation
+Q275158,0,Ye Zhaoying,participated
+Q275158,0,Ye Zhaoying,geographicalRelation
+Q275158,0,Ye Zhaoying,opposite
+Q1917844,1,Meiluawati,participated
+Q1917844,1,Meiluawati,geographicalRelation
+Q464589,1,Susi Susanti,geographicalRelation
+Q464589,1,Susi Susanti,participated
+Q464589,1,Susi Susanti,geographicalRelation
+Q464589,1,Susi Susanti,opposite
+Q464589,1,Susi Susanti,geographicalRelation
+Q464589,1,Susi Susanti,participated
+Q464589,1,Susi Susanti,geographicalRelation
+Q464589,1,Susi Susanti,opposite
+Q357936,0,Daniel Pearl,position-held
+Q357936,0,Daniel Pearl,geographicalRelation
+Q134062,0,Walter R. Booth,position-held
+Q134062,0,Walter R. Booth,position-held
+Q1052322,0,Cecil Hepworth,position-held
+Q162629,0,Simon Cowell,geographicalRelation
+Q162629,0,Simon Cowell,position-held
+Q329073,0,Chris Landreth,geographicalRelation
+Q329073,0,Chris Landreth,member
+Q329073,0,Chris Landreth,participated
+Q709449,0,Arthur Ganson,geographicalRelation
+Q139890,0,Zack Snyder,usage
+Q139890,0,Zack Snyder,contributes
+Q43203,0,Clint Eastwood,usage
+Q43203,0,Clint Eastwood,contributes
+Q18350026,0,Damien Chazelle,usage
+Q18350026,0,Damien Chazelle,contributes
+Q456910,0,Patty Jenkins,usage
+Q456910,0,Patty Jenkins,contributes
+Q512103,0,Cary Joji Fukunaga,usage
+Q512103,0,Cary Joji Fukunaga,contributes
+Q2444076,0,Joseph Kosinski,usage
+Q2444076,0,Joseph Kosinski,contributes
+Q131405,0,Louis Daguerre,contributes
+Q299565,0,Henry Fox Talbot,contributes
+Q185122,0,Carmen Electra,position-held
+Q263906,0,Traci Bingham,position-held
+Q2249390,0,Heidi Mark,position-held
+Q240250,0,Joanne Dru,position-held
+Q304828,0,Macdonald Carey,position-held
+Q1365755,0,Kenny Florian,position-held
+Q325427,0,Howard Keel,position-held
+Q234117,0,Kathryn Grayson,position-held
+Q313040,0,James Whitmore,position-held
+Q6220032,0,John B. Mason,position-held
+Q374447,0,Sam Anderson,contributes
+Q374447,0,Sam Anderson,position-held
+Q212518,0,Patrick Dempsey,contributes
+Q212518,0,Patrick Dempsey,position-held
+Q215849,0,Ellen Pompeo,contributes
+Q215849,0,Ellen Pompeo,position-held
+Q888391,0,John Sevier,member
+Q37340,0,Apollo,relationship
+Q37340,0,Apollo,contributes
+Q6519669,0,Leigh S. J. Hunt,geographicalRelation
+Q65448,0,Hermann Sudermann,contributes
+Q1607291,1,Henry Stephenson,position-held
+Q2960422,0,Charles Waldron,position-held
+Q3109112,0,Juan Miguel Aguilera,equivalent-to
+Q294819,1,Rodrigo Santoro,position-held
+Q294819,1,Rodrigo Santoro,contributes
+Q2130828,0,Randy Thom,participated
+Q454541,0,Sarah Utterback,contributes
+Q454541,0,Sarah Utterback,position-held
+Q1372180,1,Henry Wilcoxon,position-held
+Q722890,0,Michael Winner,contributes
+Q123351,0,Michael Caine,geographicalRelation
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,geographicalRelation
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,geographicalRelation
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,position-held
+Q123351,0,Michael Caine,position-held
+Q134333,0,Roger Moore,position-held
+Q722038,0,M. C. Gainey,contributes
+Q722038,0,M. C. Gainey,position-held
+Q1281792,0,Ivan Crnojević,member
+Q1396875,0,Nikola Karev,member
+Q318461,0,Vasil Levski,member
+Q347118,0,Hristo Botev,member
+Q294404,1,Henry Ian Cusick,position-held
+Q294404,1,Henry Ian Cusick,contributes
+Q276302,0,Michael Emerson,position-held
+Q276302,0,Michael Emerson,contributes
+Q28935,1,Porus,member
+Q2680,0,Bruce Willis,position-held
+Q40026,0,Sylvester Stallone,position-held
+Q43044,0,Demi Moore,position-held
+Q105460,0,John Denver,member
+Q38203,0,Helen Keller,contributes
+Q38203,0,Helen Keller,position-held
+Q4945589,0,Crystal Eastman,contributes
+Q4945589,0,Crystal Eastman,position-held
+Q6913689,0,Morris Ernst,contributes
+Q6913689,0,Morris Ernst,position-held
+Q6913689,0,Morris Ernst,position-held
+Q6913689,0,Morris Ernst,opposite
+Q6913689,0,Morris Ernst,opposite
+Q6913689,0,Morris Ernst,opposite
+Q6913689,0,Morris Ernst,contributes
+Q6913689,0,Morris Ernst,position-held
+Q6913689,0,Morris Ernst,position-held
+Q6913689,0,Morris Ernst,opposite
+Q6913689,0,Morris Ernst,opposite
+Q6913689,0,Morris Ernst,opposite
+Q4798786,0,Arthur Garfield Hays,contributes
+Q4798786,0,Arthur Garfield Hays,position-held
+Q180989,0,Jane Addams,contributes
+Q180989,0,Jane Addams,position-held
+Q162820,0,Norman Thomas,position-held
+Q162820,0,Norman Thomas,opposite
+Q162820,0,Norman Thomas,opposite
+Q162820,0,Norman Thomas,opposite
+Q15460850,0,John Haynes Holmes,position-held
+Q15460850,0,John Haynes Holmes,opposite
+Q15460850,0,John Haynes Holmes,opposite
+Q15460850,0,John Haynes Holmes,opposite
+Q51559,0,Sidney Lumet,position-held
+Q15436540,0,Harry F. Ward,opposite
+Q15436540,0,Harry F. Ward,opposite
+Q15436540,0,Harry F. Ward,opposite
+Q15436540,0,Harry F. Ward,position-held
+Q2478543,0,Corliss Lamont,opposite
+Q2478543,0,Corliss Lamont,opposite
+Q2478543,0,Corliss Lamont,opposite
+Q2478543,0,Corliss Lamont,position-held
+Q463265,0,Elizabeth Gurley Flynn,contributes
+Q463265,0,Elizabeth Gurley Flynn,position-held
+Q463265,0,Elizabeth Gurley Flynn,opposite
+Q463265,0,Elizabeth Gurley Flynn,opposite
+Q463265,0,Elizabeth Gurley Flynn,opposite
+Q463265,0,Elizabeth Gurley Flynn,position-held
+Q61742302,0,Wes Nelson,position-held
+Q61742302,0,Wes Nelson,position-held
+Q3876884,0,Nikki Sanderson,position-held
+Q3876884,0,Nikki Sanderson,position-held
+Q212790,0,David Thewlis,contributes
+Q212790,0,David Thewlis,position-held
+Q983928,1,Michael Aris,relationship
+Q983928,1,Michael Aris,contributes
+Q983928,1,Michael Aris,topic
+Q983928,1,Michael Aris,position-held
+Q3498411,0,Muhamed Mehmedbašić,position-held
+Q3498411,0,Muhamed Mehmedbašić,position-held
+Q550413,0,Vaso Čubrilović,position-held
+Q550413,0,Vaso Čubrilović,position-held
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,position-held
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,geographicalRelation
+Q34211,1,Yasser Arafat,equivalent-to
+Q34211,1,Yasser Arafat,relationship
+Q34211,1,Yasser Arafat,geographicalRelation
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q159995,0,Walter Hallstein,position-held
+Q193752,0,John of Gaunt,position-held
+Q193752,0,John of Gaunt,relationship
+Q245315,0,Liu Bei,participated
+Q313327,0,Sun Quan,participated
+Q313327,0,Sun Quan,position-held
+Q470080,0,Lü Meng,position-held
+Q2638175,0,Kat Bjelland,member
+Q2638175,0,Kat Bjelland,geographicalRelation
+Q5443,0,Greta Garbo,position-held
+Q191104,0,Sean Bean,position-held
+Q1413,0,Nero,position-held
+Q189422,0,Jean Dujardin,position-held
+Q189422,0,Jean Dujardin,contributes
+Q717539,0,Georges Picquart,equivalent-to
+Q171826,0,Alfred Dreyfus,member
+Q171826,0,Alfred Dreyfus,position-held
+Q171826,0,Alfred Dreyfus,geographicalRelation
+Q57316,0,Volker Schlöndorff,contributes
+Q57316,0,Volker Schlöndorff,participated
+Q182580,0,Shirley Temple,position-held
+Q182580,0,Shirley Temple,position-held
+Q741456,0,Nathaniel Branden,equivalent-to
+Q741456,0,Nathaniel Branden,equivalent-to
+Q1235503,0,Leonard Peikoff,relationship
+Q1235503,0,Leonard Peikoff,relationship
+Q6796120,0,Maxwell Knight,geographicalRelation
+Q106143,0,Samuel Pepys,member
+Q2622622,1,Alexander Iolas,position-held
+Q762,0,Leonardo da Vinci,equivalent-to
+Q762,0,Leonardo da Vinci,equivalent-to
+Q762,0,Leonardo da Vinci,contributes
+Q762,0,Leonardo da Vinci,equivalent-to
+Q762,0,Leonardo da Vinci,equivalent-to
+Q762,0,Leonardo da Vinci,contributes
+Q104127,0,Douglas Fairbanks,relationship
+Q104127,0,Douglas Fairbanks,position-held
+Q5491663,0,Franklin Lewis,geographicalRelation
+Q5491663,0,Franklin Lewis,position-held
+Q170572,0,Alec Baldwin,position-held
+Q170572,0,Alec Baldwin,contributes
+Q7964331,0,Walter Bobbie,position-held
+Q2808,0,Elton John,geographicalRelation
+Q2808,0,Elton John,position-held
+Q194419,0,Richard Branson,geographicalRelation
+Q194419,0,Richard Branson,position-held
+Q213581,0,Anatole Litvak,contributes
+Q62503,0,Victor Fleming,position-held
+Q62503,0,Victor Fleming,geographicalRelation
+Q62503,0,Victor Fleming,contributes
+Q62503,0,Victor Fleming,contributes
+Q103646,0,Ron Howard,position-held
+Q3439358,0,Roger Perry,geographicalRelation
+Q307473,0,Mart Laar,position-held
+Q307473,0,Mart Laar,position-held
+Q189564,0,Pierre Teilhard de Chardin,geographicalRelation
+Q189564,0,Pierre Teilhard de Chardin,relationship
+Q189564,0,Pierre Teilhard de Chardin,relationship
+Q484615,0,Ethan Hawke,position-held
+Q17131,0,Pontius Pilate,member
+Q9036,0,Nikola Tesla,member
+Q163861,0,Harry James,relationship
+Q461726,0,Mikhail Romm,position-held
+Q461726,0,Mikhail Romm,geographicalRelation
+Q461726,0,Mikhail Romm,position-held
+Q131380,0,Kim Basinger,position-held
+Q314290,0,Harry Dean Stanton,position-held
+Q42891,1,Krishna,relationship
+Q42891,1,Krishna,geographicalRelation
+Q517,0,Napoleon,position-held
+Q517,0,Napoleon,contributes
+Q517,0,Napoleon,participated
+Q517,0,Napoleon,position-held
+Q517,0,Napoleon,contributes
+Q517,0,Napoleon,position-held
+Q517,0,Napoleon,contributes
+Q517,0,Napoleon,participated
+Q517,0,Napoleon,position-held
+Q517,0,Napoleon,contributes
+Q6983877,0,NeNe Leakes,position-held
+Q162202,1,Nicki Minaj,position-held
+Q41076,0,Mariah Carey,position-held
+Q376260,0,Jeffrey Lieber,contributes
+Q310556,0,Damon Lindelof,contributes
+Q40531,0,John Wayne,position-held
+Q215359,0,Dean Martin,position-held
+Q730887,0,Lou Pearlman,geographicalRelation
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,geographicalRelation
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,member
+Q730887,0,Lou Pearlman,position-held
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q730887,0,Lou Pearlman,contributes
+Q162667,0,Glen Campbell,member
+Q272253,0,Bobbie Gentry,member
+Q185165,0,Olivia Newton-John,member
+Q1101838,0,Sandy Pearlman,position-held
+Q1101838,0,Sandy Pearlman,position-held
+Q2440207,0,Tom Werman,position-held
+Q2440207,0,Tom Werman,position-held
+Q2440207,0,Tom Werman,position-held
+Q3542638,0,Ty Burr,position-held
+Q80405,0,Julianne Moore,position-held
+Q1077729,0,Chris Schenkel,participated
+Q1077729,0,Chris Schenkel,position-held
+Q436699,0,Banjo Paterson,equivalent-to
+Q436699,0,Banjo Paterson,contributes
+Q51522,0,Sydney Pollack,participated
+Q51522,0,Sydney Pollack,contributes
+Q3317284,0,Mixmaster Morris,position-held
+Q64528,0,Andrea Fischer,position-held
+Q64528,0,Andrea Fischer,member
+Q78587,0,Franz Fischler,position-held
+Q558718,0,Lien Chan,equivalent-to
+Q558718,0,Lien Chan,geographicalRelation
+Q558718,0,Lien Chan,opposite
+Q558718,0,Lien Chan,equivalent-to
+Q558718,0,Lien Chan,geographicalRelation
+Q558718,0,Lien Chan,opposite
+Q155390,0,Costas Simitis,position-held
+Q1554548,0,Massoud Rajavi,position-held
+Q1554548,0,Massoud Rajavi,geographicalRelation
+Q1554548,0,Massoud Rajavi,position-held
+Q1554548,0,Massoud Rajavi,position-held
+Q57410,0,Shimon Peres,equivalent-to
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,relationship
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,equivalent-to
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,relationship
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,equivalent-to
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,geographicalRelation
+Q57410,0,Shimon Peres,relationship
+Q57410,0,Shimon Peres,geographicalRelation

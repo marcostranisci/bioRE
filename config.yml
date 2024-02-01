@@ -1,0 +1,15 @@
+montecarlo:
+  gender: rebel_augmented_gender.csv
+  place: rebel_augmented_places.csv
+  both: rebel_augmented_ethnicity_gender.csv
+  cross_gen: all_rels_crossre_gender.csv
+  cross_ethn: crossre_augmented_ethnicity.csv
+  ny_gen: ny_augmented_gender.csv
+  ny_ethn: ny_augmented_ethnicity.csv
+output:
+  report: report_ny_ethnicity.csv
+
+original:
+  rebel: ../train.share.en.jsonl
+  crossre: ../crossre_data_person/crossre_data_person/swapped/*
+  crossre_linked: ../NYT_CrossRE_EL/*crossre.full.el.jsonl
